@@ -110,6 +110,7 @@ test
 | What kind of sports areas are there at your university?      | There's a stadium, soccer and football fields, a gym, and a swimming pool. |
 | How do you stay on top of your classes and play sports?<br />你是怎么既学好课程，又参加体育运动的？ | You have to be really dedicated.<br />你必须得全身心投入才行。 |
 
+
 ```
 # test
 This announcer describes everything with so much detail. He's like the eyes of the game.
@@ -122,47 +123,6 @@ I'm tired of watching TV, let's go out tonight.
 ```
 
 
-
-
----
-
-**同场景迁移（学业 + 体育平衡**）
-
-A: How do you stay on top of your homework and practice basketball every day?（你是怎么既完成作业，又每天练篮球的？）
-
-B: You have to be really dedicated—no playing video games after school!（你必须全身心投入才行，放学后不能打游戏！）
-
-**stay on top of** 其他场景用法：
-
-She stays on top of her projects by making a daily to-do list.（她靠列每日待办清单，确保跟上项目进度。）
-
-To stay on top of your health, you need to exercise regularly.（要保持健康状态，你得规律运动。）
-
-**dedicated** 搭配拓展：
-
-He’s dedicated to both his studies and the school soccer team.（他既专注于学习，也投入校足球队。）
-
-She’s a dedicated student—she never misses a class.（她是个专注的学生，从不缺课。）
-
-
-
-**同场景迁移（大学咨询对话）**：
-
-A: Is there an emphasis on practical skills at your university?（你们大学重视实践技能吗？）
-
-B: Of course! It's important to apply what we learn in class.（当然啦！把课堂上学的知识用起来很重要。）
-
-**emphasis on** 搭配延伸：
-
-The school puts a strong emphasis on teamwork.（这所学校非常重视团队合作。）
-
-There’s less emphasis on exams and more on project work here.（这里不那么重视考试，更看重项目作业。）
-
-**get good grades** 语境变体：
-
-She studies hard every day to get good grades in her major courses.（她每天努力学习，为了在专业课上取得好成绩。）
-
-Getting good grades isn’t the only goal, but it helps with future opportunities.（取得好成绩不是唯一目标，但有助于未来的机会。）
 
 ```
 # speak
@@ -222,7 +182,47 @@ The Terrapins are undefeated this season, after a huge victory last week.
 
 ---
 
+**同场景迁移（学业 + 体育平衡**）
 
+A: How do you stay on top of your homework and practice basketball every day?（你是怎么既完成作业，又每天练篮球的？）
+
+B: You have to be really dedicated—no playing video games after school!（你必须全身心投入才行，放学后不能打游戏！）
+
+**stay on top of** 其他场景用法：
+
+She stays on top of her projects by making a daily to-do list.（她靠列每日待办清单，确保跟上项目进度。）
+
+To stay on top of your health, you need to exercise regularly.（要保持健康状态，你得规律运动。）
+
+**dedicated** 搭配拓展：
+
+He’s dedicated to both his studies and the school soccer team.（他既专注于学习，也投入校足球队。）
+
+She’s a dedicated student—she never misses a class.（她是个专注的学生，从不缺课。）
+
+
+
+**同场景迁移（大学咨询对话）**：
+
+A: Is there an emphasis on practical skills at your university?（你们大学重视实践技能吗？）
+
+B: Of course! It's important to apply what we learn in class.（当然啦！把课堂上学的知识用起来很重要。）
+
+**emphasis on** 搭配延伸：
+
+The school puts a strong emphasis on teamwork.（这所学校非常重视团队合作。）
+
+There’s less emphasis on exams and more on project work here.（这里不那么重视考试，更看重项目作业。）
+
+**get good grades** 语境变体：
+
+She studies hard every day to get good grades in her major courses.（她每天努力学习，为了在专业课上取得好成绩。）
+
+Getting good grades isn’t the only goal, but it helps with future opportunities.（取得好成绩不是唯一目标，但有助于未来的机会。）
+
+
+
+---
 
  用“The last thing in the world you want to do is do sth”造几个句子。
 
