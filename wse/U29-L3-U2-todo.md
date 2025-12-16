@@ -110,6 +110,7 @@ test
 | What kind of sports areas are there at your university?      | There's a stadium, soccer and football fields, a gym, and a swimming pool. |
 | How do you stay on top of your classes and play sports?<br />你是怎么既学好课程，又参加体育运动的？ | You have to be really dedicated.<br />你必须得全身心投入才行。 |
 
+
 ```
 # test
 This announcer describes everything with so much detail. He's like the eyes of the game.
@@ -121,10 +122,8 @@ There's nothing like the sound of the crowd to cheer on the players.
 I'm tired of watching TV, let's go out tonight.
 ```
 
-
-
-
 ---
+
 
 **同场景迁移（学业 + 体育平衡**）
 
