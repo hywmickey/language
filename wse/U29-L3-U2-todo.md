@@ -19,7 +19,7 @@ I'm the eyes and the ears of the people who can't get here.
 Only 50,000 people can get in this stadium to watch this football game.
 stadium: 体育场
 So no matter where you are, you can listen to the game.
-I think the game dictates the broadcase.
+I think the game dictates the broadcast.
 我认为比赛内容决定了转播（的走向 / 内容）。
 dictate：支配、决定
 	“dictate the terms（定条件）”“dictate the pace（掌控节奏）”。
@@ -94,7 +94,7 @@ You do have to stay on top of things as far as __grades__ are concerned.
 as far as grades are concerned：就成绩而言
     As far as health is concerned, regular exercise is more important than diet.（就健康而言，规律运动比饮食更重要。——“health” 不可数，用单数 +“is”）
     As far as family plans are concerned, we’re thinking of traveling this summer.（就家庭计划而言，我们正考虑今年夏天去旅行。——“plans” 可数复数 +“are”）
-stay on top of things：关注并妥善处理好与成绩相关的事
+stay on top of things：关注并妥善处理好相关的事
 	You do have to stay on top of things as far as project deadlines are concerned.（就项目截止日期而言，你确实得盯紧相关事宜。）
 	My mom always says we do have to stay on top of things as far as family health is concerned.（我妈妈总说，就家人健康而言，我们确实得关注好相关细节。）
 ```
@@ -108,7 +108,7 @@ test
 | Is there an emphasis on academics at your university?<br />你们大学重视学术（学业）吗？ | Of course! It's important to get good grades.<br />当然啦！取得好成绩很重要。 |
 | Are you both alumni of the college?<br />alumni：校友        | Yes, we graduated several years ago.                         |
 | What kind of sports areas are there at your university?      | There's a stadium, soccer and football fields, a gym, and a swimming pool. |
-| How do you stay on top of your classes and play sports?<br />你是怎么既学好课程，又参加体育运动的？ | You have to be really decicated.<br />你必须得全身心投入才行。 |
+| How do you stay on top of your classes and play sports?<br />你是怎么既学好课程，又参加体育运动的？ | You have to be really dedicated.<br />你必须得全身心投入才行。 |
 
 **同场景迁移（学业 + 体育平衡**）
 
