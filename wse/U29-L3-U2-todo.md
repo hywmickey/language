@@ -14,12 +14,12 @@
 # speak
 Let's go talk to the team's radio announcer to find out the details.
 I have been doing Maryland football and basketball for 28 years.
-I broadcast, I describe what I'm seeing on the radio.
+I broadcast; I describe what I'm seeing on the radio.
 I'm the eyes and the ears of the people who can't get here. 
 Only 50,000 people can get in this stadium to watch this football game.
 stadium: 体育场
 So no matter where you are, you can listen to the game.
-I think the game dictates the broadcase.
+I think the game dictates the broadcast.
 我认为比赛内容决定了转播（的走向 / 内容）。
 dictate：支配、决定
 	“dictate the terms（定条件）”“dictate the pace（掌控节奏）”。
@@ -85,8 +85,8 @@ We're here at the University of Maryland's Byrd Stadium.
 Where__ later today, __the team play a college football game__.
 This is the team's mascot, it's a terrapin.
 这是该球队的吉祥物，它是一只水龟。
-The Terrapin _will_ come back on homecoming Day against the Wolf Pack of North Carolina State.
-Terrapin将在返校日对阵北卡罗来纳州的狼群。
+The Terrapin alumni come back on Homecoming Day against the Wolf Pack of North Carolina State.
+马里兰大学水龟队的校友们会在返校日回来，观看球队对阵北卡罗来纳州立大学狼群队的比赛。
 Terrapin将在返校日回来。
 You do have to go to class, you do have to study.
 You do have to stay on top of things as far as __grades__ are concerned.
@@ -94,7 +94,7 @@ You do have to stay on top of things as far as __grades__ are concerned.
 as far as grades are concerned：就成绩而言
     As far as health is concerned, regular exercise is more important than diet.（就健康而言，规律运动比饮食更重要。——“health” 不可数，用单数 +“is”）
     As far as family plans are concerned, we’re thinking of traveling this summer.（就家庭计划而言，我们正考虑今年夏天去旅行。——“plans” 可数复数 +“are”）
-stay on top of things：关注并妥善处理好与成绩相关的事
+stay on top of things：关注并妥善处理好相关的事
 	You do have to stay on top of things as far as project deadlines are concerned.（就项目截止日期而言，你确实得盯紧相关事宜。）
 	My mom always says we do have to stay on top of things as far as family health is concerned.（我妈妈总说，就家人健康而言，我们确实得关注好相关细节。）
 ```
@@ -108,7 +108,23 @@ test
 | Is there an emphasis on academics at your university?<br />你们大学重视学术（学业）吗？ | Of course! It's important to get good grades.<br />当然啦！取得好成绩很重要。 |
 | Are you both alumni of the college?<br />alumni：校友        | Yes, we graduated several years ago.                         |
 | What kind of sports areas are there at your university?      | There's a stadium, soccer and football fields, a gym, and a swimming pool. |
-| How do you stay on top of your classes and play sports?<br />你是怎么既学好课程，又参加体育运动的？ | You have to be really decicated.<br />你必须得全身心投入才行。 |
+| How do you stay on top of your classes and play sports?<br />你是怎么既学好课程，又参加体育运动的？ | You have to be really dedicated.<br />你必须得全身心投入才行。 |
+
+```
+# test
+This announcer describes everything with so much detail. He's like the eyes of the game.
+You can listen to the broadcast anywhere.
+I felt that that was a really boring game.
+I thought I heard her say she didn'd like basketball.
+A broadcast announcer looks down from the press box at the players.
+There's nothing like the sound of the crowd to cheer on the players.
+I'm tired of watching TV, let's go out tonight.
+```
+
+
+
+
+---
 
 **同场景迁移（学业 + 体育平衡**）
 
@@ -147,3 +163,71 @@ There’s less emphasis on exams and more on project work here.（这里不那�
 She studies hard every day to get good grades in her major courses.（她每天努力学习，为了在专业课上取得好成绩。）
 
 Getting good grades isn’t the only goal, but it helps with future opportunities.（取得好成绩不是唯一目标，但有助于未来的机会。）
+
+```
+# speak
+The last thing in the world you want to do is do a ballgame, and not have the sound of the crowd coming in with you.
+你最不愿意做的事，就是参与一场球赛，却听不到现场观众的声音与你相伴。
+The last thing (sb) want to do is do sth：“（某人）最不想做的事是做某事”，语气上强调 “极度不愿意”，比如 “The last thing I want to do is argue with you”（我最不想做的事就是和你吵架）。
+	“The last thing in the world you want to do is go to a concert, and not have the music echoing around you”（你最不愿意做的事，就是去听一场音乐会，却听不到音乐在身边回荡）。
+come in with you：和你一起进来
+
+You want the University of Maryland to win every game, so you get wrapped up in it.
+你希望马里兰大学每场比赛都能赢，所以你完全沉浸其中了。
+get wrapped up in sth：全身心投入、完全沉浸在某件事里
+	“She got wrapped up in the novel and forgot to cook dinner.”（她完全沉浸在小说里，连晚饭都忘了做。）
+win every game：每场比赛都赢
+	“win every match”（每场赛事都赢）、“win every competition”（每场竞赛都赢），
+	例如：“The team is in great form and hopes to win every match this season.”（这支队伍状态极佳，希望本赛季每场比赛都能赢。）
+
+If you're going to play the game of college football, you've got to be extremely talented.
+要是想打大学橄榄球比赛，你必须得极具天赋才行。
+play the game of college football：此处 “play the game of + 运动” 是口语中常用的完整表达，强调 “参与某项特定运动”，这里具体指 “参加大学橄榄球赛事（通常指校队层面的正式比赛）”。日常也可简化为 “play college football”，含义不变，比如 “He played college football when he was a student.”（他上大学时打过大学橄榄球。）
+got to be：是 “have got to be” 的口语简略形式，比 “must be” 语气更贴近日常对话，强调 “客观上必须具备、不得不有” 的条件，比如 “If you want to pass this exam, you’ve got to be well-prepared.”（要是想通过这场考试，你必须得做好充分准备。）
+
+```
+
+test
+
+| A                                                            | B                                                            |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| What advice would you give to students who want to get good grades? | You have to study hard!                                      |
+| What quality do good football players need to have?          | You should be extremely talented!                            |
+| As a sports broadcaster, what do you think your responsibility is? | You've got to be the eyes and ears for the people who aren't there. |
+| What is the attraction of watching a ballgame?               | Well, you get really wrapped up in the action.               |
+| How has technology helped fans of the game?                  | If you can't be there, you can listen to the game anywhere in the world. |
+| Why do you think alumni still come to watch the games?       | I think you still want your team to win, even though you've graduated. |
+| How can people listen to the game?                           | If you've got a computer or a radio, you can hear the broadcast. |
+
+```
+# speak
+So no matter where you are, if you graduated from Maryland and you live in California, you can listen to the game.
+Wherever there's a radio or a computer, you can listen to our broadcast.
+
+# test
+No matter where you are, you can listen to the game.
+Whatever you do, you should always do your best.
+No matter how great a player is, he still must get good grades.
+Wherever there's a radio or computer, you can listen to our broadcast.
+I don't care if you boil or fry the fish. You can cook it however you want.
+That restaurant has a big menu. You can eat whatever you feel like having.
+I don't mind if we have red or white wine, whichever you prefer.
+```
+
+```
+# speak
+The Terrapins are undefeated this season, after a huge victory last week.
+```
+
+
+---
+
+
+
+ 用“The last thing in the world you want to do is do sth”造几个句子。
+
+1. The last thing in the world you want to do is forget your best friend’s birthday, especially when they’ve been looking forward to it for weeks.（你最不愿意做的事，就是忘了好朋友的生日，尤其是在他们已经期待了好几周的情况下。）
+2. After working overtime for three days in a row, the last thing in the world you want to do is attend another late-night meeting.（连续加班三天后，你最不愿意做的事，就是再参加一场深夜会议。）
+3. When you’re finally on a quiet weekend getaway, the last thing in the world you want to do is answer work calls that aren’t urgent.（当你终于迎来一个安静的周末短途旅行时，你最不愿意做的事，就是接那些不紧急的工作电话。）
+4. The last thing in the world you want to do is make a mistake in the important presentation, since the whole team has been preparing for it for months.（你最不愿意做的事，就是在这场重要的汇报里出错 —— 毕竟整个团队已经为此准备了好几个月。）
+5. When you’re sick with a high fever, the last thing in the world you want to do is cook a complicated meal; you just want something simple and warm.（发着高烧生病时，你最不愿意做的事，就是做一顿复杂的饭，只想要点简单又温热的食物。）
