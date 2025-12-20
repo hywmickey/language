@@ -247,6 +247,72 @@ Whenever you feel the need to talk to someone, you can call me.
 The pressures of modern life often cause couples to experience problems in their marriages.
 ```
 
+---
+
+
+扩展例句：In a surprising way
+
+以下是 **“In a surprising way”** 的多场景扩展例句，涵盖人际关系、生活、工作、学习等语境，附精准翻译和用法解析，帮你灵活掌握其作为评注性状语的表达逻辑：
+
+一、人际关系类（延续婚姻/情感语境）
+
+1. **In a surprising way, the argument that almost ended their marriage actually brought them closer.**  
+   翻译：说来令人意外，那场险些让他们婚姻破裂的争吵，反倒让彼此走得更近了。  
+   解析：用“反倒”体现转折关系，贴合“意外结果”的核心语义，适合描述情感中的反转场景。
+
+2. **In a surprising way, even small daily rituals (like making coffee together) can strengthen a long-term relationship.**  
+   翻译：令人没想到的是，即便是一起冲咖啡这样的日常小事，也能加固一段长期关系。  
+   解析：“令人没想到的是”替代直译，突出“看似普通却有意外效果”的逻辑，适配亲密关系话题。
+
+3. **In a surprising way, the friend who once disagreed with her now supports her most firmly.**  
+   翻译：说来有些意外，那个曾经和她意见不合的朋友，现在却是最坚定支持她的人。  
+   解析：用“有些意外”弱化惊讶程度，符合人际相处中“态度转变”的委婉表达。
+
+二、生活/成长类
+
+4. **In a surprising way, the failure he feared so much taught him more than any success.**  
+   翻译：令人意外的是，他曾经无比惧怕的失败，教会他的东西比任何成功都多。  
+   解析：强调“意外收获”，适合描述挫折带来的成长，“令人意外的是”作为句首评注，节奏自然。
+
+5. **In a surprising way, living a simple life has made her more content than chasing material wealth.**  
+   翻译：说来意外，过着简单的生活，反倒让她比追逐物质财富时更满足。  
+   解析：用“反倒”突出对比，体现“选择与结果不符预期”的意外感，贴合生活态度类话题。
+
+6. **In a surprising way, learning to say "no" has improved her relationships rather than damaging them.**  
+   翻译：令人没想到的是，学会拒绝不仅没伤害她的人际关系，反而让其变得更好了。  
+   解析：“不仅没……反而……”的结构还原原句的转折逻辑，精准传递“意外积极效果”。
+
+三、工作/学习类
+
+7. **In a surprising way, the project that seemed impossible at first turned out to be the most rewarding.**  
+   翻译：说来意外，那个一开始看似不可能完成的项目，最后却成了最有收获的一个。  
+   解析：适配工作场景，“说来意外”引出“难度与结果不符”的反转，符合职场表达习惯。
+
+8. **In a surprising way, taking a short break every hour has boosted his work efficiency significantly.**  
+   翻译：令人没想到的是，每小时休息片刻，竟然极大地提升了他的工作效率。  
+   解析：“竟然”强化意外程度，突出“小举动有大效果”，适合描述工作方法的意外收获。
+
+9. **In a surprising way, the language he picked up casually in college has become his biggest professional advantage.**  
+   翻译：说来有些意外，他大学时偶然学到的语言，如今成了他职业上最大的优势。  
+   解析：用“有些意外”体现“偶然积累带来长期收益”的意外感，适配学习/职业发展话题。
+
+四、通用/抽象类
+
+10. **In a surprising way, silence can convey more emotion than words in some situations.**  
+    翻译：令人意外的是，在某些情况下，沉默比语言更能传递情感。  
+    解析：描述抽象的“沟通方式”，“令人意外的是”引出“常识之外的现象”，逻辑清晰。
+
+11. **In a surprising way, the old book she found in a secondhand store changed her view of life.**  
+    翻译：说来意外，她在二手书店淘到的那本旧书，竟然改变了她的人生观。  
+    解析：“淘到”“竟然”贴合日常表达，突出“偶然发现带来重大影响”的意外感。
+
+用法总结
+
+- **核心功能**：作为评注性状语，表达“结果/效果与预期不符”的意外感，可放在句首（最常用）或句中（如：The plan, in a surprising way, succeeded）。  
+- **翻译技巧**：避免直译“以令人惊讶的方式”，优先用“说来意外”“令人没想到的是”“有些意外”等符合中文口语节奏的表达，根据语境调整惊讶程度。  
+- **搭配逻辑**：后接“看似……实则……”“本以为……却……”的转折关系，常与 `actually`/`rather than`/`turn out to` 等词呼应，强化意外效果。
+
+是否需要针对某类场景（如职场、情感）补充更多例句，或整理“意外类评注性状语”（如 `Surprisingly`/`Unexpectedly`）的替换用法？
 
 
 ---
