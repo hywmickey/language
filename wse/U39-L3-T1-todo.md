@@ -378,7 +378,7 @@ He's the founder of a non-governmental organization that works with villagers to
     替换恢复表达（restore → renew）+ 简化机构名称
     He's the founder of an NGO that partners with villagers to renew water sources.
 
-Under his guidance, the people began collecting stone to make the dams.
+Under his guidance, the people began collecting stones to make the dams.
 在他的指导下，人们开始收集石头来建造水坝。
 - 核心结构：方式状语 + 主语 + 谓语 + 宾语 + 目的状语
 - 结构拓展：将方式状语置于句尾，调整语序后句意不变，更口语化：
@@ -422,3 +422,225 @@ The villagers made small pits and laid them with a bed of stone, earth, and clay
 | made small pits                 | 挖小坑               | make a pit、make deep pits、make pits for storage            | *make* 此处表 “挖掘、开凿”，后接表 “坑、洞” 的宾语；同义替换：*dig small pits*（更直接表 “挖掘”） |
 | laid them with                  | 用…… 铺在它们上面    | lay the floor with wood、lay the road with asphalt、lay the ground with grass | 核心结构：*lay sth. with sth.*（用某物铺设某物）；*laid* 是 *lay*（铺设）的过去式，注意与 *lie*（躺）的过去式 *lay* 区分 |
 | a bed of stone, earth, and clay | 一层石头、泥土和黏土 | a bed of sand、a bed of leaves、a bed of gravel              | *a bed of sth.* 固定搭配，表 “一层……（用作底层或铺垫的材料）”；同义表达：*a layer of stone, earth, and clay*（更通用的 “一层”） |
+
+```
+# speak
+The government has already invested thousands of millions of rupees in big dams, so how do you explain villages with no water?
+政府已在大型水坝上投入了数十亿卢比，那么你如何解释有些村庄仍然缺水这一现象呢？
+- 句子结构
+	本句为并列复合句，由因果连词 so 连接两个独立分句，逻辑关系为 “前因后果”：
+	分句 1（因）：主谓宾 + 地点状语
+	分句 2（果）：特殊疑问句
+- 同义改写（保持原意，3 个版本）
+    口语化版本 The government has already poured billions of rupees into large-scale dams, so how can you account for the fact that some villages still have no water?
+    正式书面版本 Billions of rupees have already been invested by the government in major dams; thus, how would you explain the existence of water-deprived villages?
+    简洁紧凑版本 With billions of rupees invested in big dams by the government, how do you make sense of villages lacking water?
+- 地道用法拓展
+数量表达：thousands of millions 的灵活替换
+    英语中表示 “数十亿”，除了 thousands of millions，更常用 billions（美式英语）或 thousands of millions（英式英语，更强调 “千个百万” 的层级）。
+    拓展：hundreds of millions（数亿）、millions upon millions（千千万万）。
+投资表达：invest in 的同义短语辨析
+    pour money into：强调 “大量、持续地投入”，语气较口语化，如 The country poured huge sums into renewable energy.
+    sink funds into：侧重 “投入资金后难以收回”，隐含 “投资风险”，如 The company sank millions into the failed project.
+    allocate funds to：正式表达，强调 “官方规划性的资金分配”，如 The government allocated funds to rural water supply.
+反问句型：how do you explain 的拓展用法
+    用于质疑矛盾现象：How do you explain the team's loss after winning 10 games in a row?
+    变体：How can one account for...?（更正式）、What's the explanation for...?（名词化表达）。
+后置定语：with no water 的替代结构
+    形容词后置：waterless villages（更简洁，书面语）
+    定语从句：villages that are short of water（更详细，可补充原因）
+
+The blame lies in the very system which proposes the construction of bigger dams.
+责任恰恰在于那个提议建造更大水坝的制度本身。
+- 同义改写（保持原意，3 个版本）
+口语化版本
+	The fault lies exactly with the system that suggests building larger dams.
+正式书面版本
+	The responsibility is attributable precisely to the system which puts forward the proposal for constructing bigger dams.
+简洁紧凑版本
+	Blame rests with the very system proposing the construction of larger dams.（用现在分词作后置定语，省略定语从句引导词）
+- 地道用法拓展
+责任表达：lie in 的同义短语辨析
+    rest with：正式表达，强调 “责任归属某主体，由其负责”，如 The final decision rests with the committee.
+    be attributable to：更书面化，侧重 “过错可归因于某因素”，如 The failure is attributable to inadequate planning.
+    lie with：与 lie in 近义，但 lie with 后接 “人或机构”，lie in 后接 “原因或事物”，如 The blame lies with the manager.
+强调词 very 的用法
+    修饰名词时，需放在定冠词 / 形容词性物主代词之后，如 the very book（正是那本书）、my very own house（完全属于我的房子）。
+    拓展：very 还可修饰形容词或副词，表 “非常”，但在本句中为限定词用法，表强调，需注意区分。
+propose 的灵活用法
+    后接名词：propose a solution（提出一个解决方案）
+    后接动名词：propose doing sth.（提议做某事，本句用法）
+    后接宾语从句：propose that sb. (should) do sth.（正式用法，虚拟语气），如 The system proposes that we (should) build bigger dams.
+名词化表达：the construction of
+    英语中常通过 “名词 + of + 名词” 的结构将动词转化为名词，使句子更简洁、正式，如：
+    build a school → the construction of a school
+    develop a new technology → the development of a new technology
+
+These small-scale measures would not be enough to solve the problems in New Delhi.
+这些小规模措施不足以解决新德里存在的问题。
+- 同义改写（保持原意，3 个版本）
+    口语化版本 These small-scale steps won’t be enough to fix the problems in New Delhi.
+    正式书面版本 Such limited-scale measures would be insufficient to address the issues existing in New Delhi.
+    简洁紧凑版本 These small-scale initiatives are not adequate to solve New Delhi’s problems.
+- 地道用法拓展
+“小规模” 的多样表达
+    small-scale：通用表达，可修饰措施、项目、企业等，如 small-scale farming（小规模农业）。
+    limited-scale：更强调 “规模受限制的”，隐含 “因条件不足而无法扩大”，如 limited-scale testing（有限规模测试）。
+    modest-scale：书面语，语气更委婉，如 modest-scale reforms（适度规模的改革）。
+“足够” 的同义替换与用法辨析
+    sufficient：正式用词，与 enough 含义相近，但更常用于书面语，如 sufficient funds to complete the project。
+    adequate：强调 “达到必要标准的足够”，隐含 “刚好满足需求但不富余”，如 adequate resources for the task。
+    注意：enough 修饰形容词 / 副词时需后置（如 good enough），修饰名词时可前置或后置（如 enough time / time enough）。
+“解决问题” 的短语辨析
+    solve the problem：最通用，指 “找到具体解决方案，彻底解决问题”。
+    address the problem：正式表达，侧重 “关注并着手处理问题”，不一定表示 “彻底解决”。
+    tackle the problem：强调 “主动应对困难的问题”，带有 “努力克服” 的意味，如 tackle the environmental problem。
+    
+Experts believe that new water supplies and new conservation methods could delay the crisis, but only for a decade or so.
+专家认为，新的水源和新的节水方法或许能够延缓这场危机，但也仅能维持十年左右。
+- 同义改写（保持原意，3 个版本）
+    口语化版本 Specialists think that additional water sources and water-saving measures can postpone the crisis, but only for around ten years.
+    正式书面版本 Authorities in the field hold the view that new sources of water and conservation techniques could put off the crisis, yet merely for roughly a decade.
+    简洁紧凑版本 Experts argue that new water supplies and water-saving measures can delay the crisis, but only for about ten years.
+- 地道用法拓展
+“专家认为” 的多样表达
+    Experts believe that...：通用表达，适用于各类语境。
+    Specialists hold the view that...：更正式，学术性强，如论文、报告中。
+    Authorities in the field point out that...：强调 “该领域权威人士”，增强观点的可信度。
+    It is believed by experts that...：被动语态，正式且突出观点本身，而非提出者。
+“供水 / 水源” 的同义替换
+    water supplies：侧重 “可获取的供水总量或供水系统”，如 public water supplies（公共供水系统）。
+    water sources：侧重 “水源地”，如 underground water sources（地下水源）。
+    water supply systems：明确指 “供水设施与体系”，更具体。
+“节水 / 保护方法” 的表达辨析
+    conservation methods：通用表达，可指水资源、能源、自然资源等的保护方法。
+    water-saving methods：针对性更强，仅指 “节水方法”，口语中更常用。
+    conservation strategies：更正式，强调 “系统性的策略、方案”，而非零散的方法。
+“延缓” 的动词辨析
+    delay：最通用，指 “使某事在时间上延后”，可用于危机、会议、截止日期等。
+    postpone：侧重 “主动推迟事先安排好的事情”，如 postpone a meeting（推迟会议），也可用于危机。
+    put off：口语化表达，与 postpone 含义相近，如 put off the decision（推迟决定）。
+“时间段左右” 的表达
+    a + 时间段 + or so：口语和书面语通用，位置灵活，可置于句末或时间段前（如 or so a decade）。
+    around + 时间段：更口语化，如 around a year（一年左右）。
+    roughly /about + 时间段：书面语常用，如 roughly three months（大约三个月）。
+    
+# test
+Don't blame the government. They've done everything possible to solve the problem.
+The planned new subway line has been delayed because of a shortage of money.
+This problem is serious, and it needs to be solved urgently.
+The economic crisis will only get worse unless the banks start lending again.
+The causes of the problem lies in the goverment's past policies.
+The municipal government needs to invest billions in the water supply system.
+How else do you explain the lack of cheap, clean water?
+你还能如何解释缺乏廉价、清洁的水？
+```
+
+---
+
+| 原文词汇 / 短语              | 原文用法说明                                                 | 核心搭配                                                     | 举一反三（同义 / 拓展表达）                                  |
+| ---------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **invest in**                | 本句核心动词短语，表 “在…… 上投资”，后接投资对象             | invest large sums in sth.（在某物上投入大笔资金）invest heavily in sth.（大力投资于某物） | fund sth.（为某物提供资金）pour money into sth.（向某物投入资金） |
+| **thousands of millions of** | 数量表达，用于描述极大数额，**= billions of**，区别于 *millions of*（数百万） | thousands of millions of dollars/yuan（数十亿美元 / 人民币） | billions of（数十亿，最常用同义替换）hundreds of billions of（数千亿） |
+| **big dams**                 | 复合名词，指大型水利枢纽工程，*dam* 特指 “水坝、拦河坝”      | build big dams（修建大型水坝）operate big dams（运营大型水坝） | large-scale dams（大型水坝，更正式）major dams（主要水坝）   |
+| **with no water**            | 介词短语作后置定语，修饰 *villages*，表 “缺水的”             | areas with no water（缺水地区）households with no water（缺水家庭） | water-scarce villages（缺水村庄，形容词作定语）villages lacking water（缺水村庄，现在分词作定语） |
+
+| 原词 / 短语                     | 释义                                 | 搭配示例                                                     | 举一反三（拓展表达）                                        |
+| ------------------------------- | ------------------------------------ | ------------------------------------------------------------ | ----------------------------------------------------------- |
+| the blame lies in               | 责任在于；过错源于                   | the blame lies in poor management; the blame lies in outdated policies | the responsibility rests with; the fault is attributable to |
+| the very system                 | 正是那个制度 / 体系（*very* 表强调） | the very reason; the very person; the very issue             | the exact system; the very same system                      |
+| propose                         | 提议；建议；提出                     | propose a plan; propose a new law; propose building a bridge | suggest; put forward; put forward a proposal for            |
+| the construction of bigger dams | 建造更大水坝的工程                   | the construction of highways; the construction of new hospitals | building bigger dams; the construction of larger dams       |
+
+| 原词 / 短语          | 释义                 | 搭配示例                                                     | 举一反三（拓展表达）                                         |
+| -------------------- | -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| small-scale measures | 小规模措施           | small-scale projects; small-scale reforms; small-scale experiments | limited-scale measures; small-scale initiatives              |
+| would not be enough  | 不足以；不会足够     | would not be enough to meet demand; would not be enough to cover costs | would be insufficient to; will not be adequate to            |
+| solve the problems   | 解决问题             | solve a crisis; solve a technical issue; solve the traffic problem | address the problems; resolve the issues; tackle the problems |
+| in New Delhi         | 在新德里（印度首都） | in Mumbai; in major cities; in urban areas                   | across New Delhi; within the city of New Delhi               |
+
+| 原词 / 短语              | 释义                       | 搭配示例                                                     | 举一反三（拓展表达）                                    |
+| ------------------------ | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------- |
+| experts                  | 专家们                     | leading experts; water resource experts; environmental experts | specialists; authorities in the field                   |
+| new water supplies       | 新的供水系统；新的水源     | tap water supplies; emergency water supplies; sustainable water supplies | new water sources; new water supply systems             |
+| new conservation methods | 新的节水方法；新的保护措施 | water conservation methods; energy conservation methods; resource conservation methods | new water-saving methods; new conservation strategies   |
+| could delay              | 有望延缓；可以推迟         | could delay the deadline; could delay the impact; could delay the process | may postpone; might put off; has the potential to delay |
+| the crisis               | 这场危机                   | water crisis; environmental crisis; energy crisis            | the impending crisis; the ongoing crisis                |
+| a decade or so           | 十年左右                   | a year or so; a month or so; a century or so                 | around a decade; roughly ten years                      |
+
+```
+# speak
+Even in the wealthy suburbs, you'll find the very same water trucks. 
+即使在富裕的郊区，你也能看到一模一样的运水车。
+- 同义改写（保持原意，3 个版本）
+    口语化版本 Even in the rich suburbs, you’ll see the exact same water trucks.
+    正式书面版 本Even within affluent suburban areas, one can find the very identical water tankers.
+    简洁紧凑版本 The very same water trucks exist even in wealthy suburbs.
+- 地道用法拓展
+even 的让步用法拓展
+    后接从句：Even though the suburbs are wealthy, water trucks are still needed.（even though 引导让步状语从句，语气更正式）
+    后接形容词 / 副词：Even the wealthy suburbs have water trucks.（even 修饰名词短语，强调主语的意外性）
+    注意：even 与 even if/though 的区别：even 可修饰介词短语、名词等，even if/though 只能引导从句。
+the very same 与 the same 的区别
+    the same：仅表示 “相同的”，语气平淡，如 I have the same book.（我有一本一样的书）。
+    the very same：通过 very 强化语气，强调 “完全同一、毫无差异”，隐含 “意外或强调同一性”，如 This is the very same pen I lost yesterday.（这正是我昨天丢的那支笔）。
+    同义替换：the exact same（口语常用）、the very identical（书面语，语气更强）。
+“郊区” 的同义表达辨析
+    suburbs：通用词，指城市周边的郊区，如 live in the suburbs（住在郊区）。
+    suburban areas：更正式，强调 “郊区区域”，如 affluent suburban areas（富裕的郊区区域）。
+    residential suburbs：侧重 “以居住为主的郊区”，如 quiet residential suburbs（安静的居住郊区）。
+water trucks 的行业表达
+    water tankers：正式表达，特指大型运水车，常用于官方报告或新闻中，如 The government deployed water tankers to drought-hit areas.
+    water delivery trucks：强调 “供水功能” 的运水车，口语和书面语通用，如 Local communities rely on water delivery trucks for daily use.
+
+# test
+Millions of people all over the country suffer from water shortages.
+The people who complain about the problem are the very same ones who caused it.
+Millions of people are traveling to the city in search of well-paid jobs.
+Our organization aims to encourage people to stay in their home villages.
+Under the organization's guidance, people are learning how to save water.
+We show them how to collect rainwater in small dams.
+```
+
+| 原词 / 短语     | 释义                                    | 搭配示例                                                     | 举一反三（拓展表达）                        |
+| --------------- | --------------------------------------- | ------------------------------------------------------------ | ------------------------------------------- |
+| wealthy suburbs | 富裕的郊区                              | affluent suburbs; wealthy residential areas; posh suburbs    | affluent suburban areas; prosperous suburbs |
+| the very same   | 正是同样的；一模一样的（*very* 表强调） | the very same mistake; the very same house; the very same method | the exact same; the very identical          |
+| water trucks    | 运水车；供水车（语境特指应急供水车辆）  | hire water trucks; rely on water trucks; deploy water trucks | water tankers; water delivery trucks        |
+
+```
+# speak
+The government has proposed a series of new dams, but this plan has met with strong opposition.
+政府已提议修建一系列新水坝，但该计划遭到了强烈反对。
+- 同义改写（保持原意，3 个版本）
+    口语化版本The government has put forward a series of new dams, but this plan has faced fierce opposition.
+    正式书面版本A series of new dams has been proposed by the government, yet the initiative has encountered widespread strong opposition.
+    简洁紧凑版本The government’s proposal for a series of new dams has met with stiff resistance.
+- 地道用法拓展
+propose 的灵活用法
+    后接名词：propose a plan（提出计划）、propose a solution（提出解决方案）
+    后接动名词：propose building new dams（提议修建新水坝，本句隐含用法，完整表达为 propose building a series of new dams）
+    后接宾语从句（正式用法，需用虚拟语气）：The government proposed that a series of new dams (should) be built.
+a series of 的同义替换与辨析
+    a range of：强调 “范围广泛的一系列”，如 a range of policies（一系列政策）
+    a string of：侧重 “连续不断的一系列”，常与负面事物搭配，如 a string of failures（一连串失败），也可用于中性事物
+    a set of：强调 “一套完整的一系列”，如 a set of rules（一套规则）
+meet with 的同义短语辨析
+    encounter：正式用词，侧重 “意外或偶然遭遇”，如 encounter unexpected difficulties（遭遇意外困难）
+    face：通用词，语气直接，侧重 “主动面对”，如 face strong criticism（面对强烈批评）
+    run into：口语化短语，侧重 “不经意间遭遇”，如 run into resistance（遇到阻力）
+opposition 的搭配拓展
+    修饰词搭配：fierce opposition（激烈反对）、widespread opposition（广泛反对）、vocal opposition（公开反对）、cross-party opposition（跨党派反对）
+    动词搭配：express opposition（表达反对）、voice opposition（发声反对）、mount opposition to（发起对…… 的反对）
+```
+
+---
+
+| 原词 / 短语          | 释义                             | 搭配示例                                                     | 举一反三（拓展表达）                         |
+| -------------------- | -------------------------------- | ------------------------------------------------------------ | -------------------------------------------- |
+| propose              | 提议；提出（计划、方案等）       | propose a bill; propose a new policy; propose building a hospital | put forward; suggest; advance a proposal for |
+| a series of new dams | 一系列新水坝                     | a series of projects; a series of reforms; a series of measures | a range of new dams; a string of new dams    |
+| this plan            | 该计划（指代前文提议的水坝计划） | this proposed plan; the aforementioned plan; this initiative | the plan in question; this proposal          |
+| meet with            | 遭遇（某种反应或情况）           | meet with approval; meet with criticism; meet with resistance | encounter; face; run into                    |
+| strong opposition    | 强烈反对                         | fierce opposition; widespread opposition; vocal opposition   | stiff resistance; strong pushback            |
+
