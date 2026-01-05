@@ -1,0 +1,256 @@
+"startTimeMs": 0,
+"endTimeMs": 4120,
+"source": "It's hard to get a sense of the city because it's usually shrouded in smog.",
+"target": "由于这座城市常常被雾霾笼罩，所以很难感受它的面貌。"
+"startTimeMs": 5424,
+"endTimeMs": 10440,
+"source": "Okay, New Delhi's water supply doesn't look much better.",
+"target": "好吧，新德里的供水情况看起来也好不到哪儿去。"
+"startTimeMs": 11488,
+"endTimeMs": 17128,
+"source": "50 million gallons of industrial waste are dumped into the Yamana River every single day.",
+"target": "每天有5000万加仑的工业废料被倾倒进亚穆纳河。"
+"startTimeMs": 17792,
+"endTimeMs": 22952,
+"source": "leaving a waterway that looks more like a science experiment than a proper source of drinking water.",
+"target": "留下了一条与其说是合适的饮用水源，不如说更像是科学实验的水道。"
+"startTimeMs": 23968,
+"endTimeMs": 24548,
+"source": "Um",
+"target": "嗯"
+"startTimeMs": 25140,
+"endTimeMs": 28780,
+"source": "There are 14 million people in and around New Delhi.",
+"target": "新德里及其周边地区有1400万人口。"
+"startTimeMs": 29220,
+"endTimeMs": 30300,
+"source": "all of them thirsty.",
+"target": "他们都口渴难耐。"
+"startTimeMs": 30868,
+"endTimeMs": 35948,
+"source": "Many of them waiting for the municipal trucks on which they now have to rely for drinking water.",
+"target": "他们中的许多人都在等待市政卡车，因为他们现在只能依靠这些卡车来获得饮用水。"
+"startTimeMs": 37960,
+"endTimeMs": 39200,
+"source": "Sometimes there's enough.",
+"target": "有时水量充足。"
+"startTimeMs": 39816,
+"endTimeMs": 40896,
+"source": "Sometimes very bad.",
+"target": "有时水量却非常少。"
+"startTimeMs": 44984,
+"endTimeMs": 46704,
+"source": "The numbers are sobering.",
+"target": "这些数字令人警醒。"
+"startTimeMs": 47760,
+"endTimeMs": 51240,
+"source": "New Delhi's residents need about a billion gallons a day.",
+"target": "新德里居民每天大约需要10亿加仑的水。"
+"startTimeMs": 51728,
+"endTimeMs": 53848,
+"source": "They're surviving on a quarter of that.",
+"target": "而他们现在仅能维持所需水量的四分之一。"
+"startTimeMs": 54640,
+"endTimeMs": 57640,
+"source": "Even in the wealthy suburbs you'll find bustling malls,",
+"target": "即使在富裕的郊区，你也会发现热闹的购物中心，"
+"startTimeMs": 57760,
+"endTimeMs": 60280,
+"source": "well-dressed shoppers, upscale restaurants.",
+"target": "衣着考究的购物者，高档餐厅。"
+"startTimeMs": 60740,
+"endTimeMs": 63180,
+"source": "and the very same water trucks.",
+"target": "还有同样的运水卡车。"
+"startTimeMs": 64020,
+"endTimeMs": 65660,
+"source": "Farther out in the countryside.",
+"target": "再往远处的乡村走走。"
+"startTimeMs": 65960,
+"endTimeMs": 67520,
+"source": "In the Rajasthan Desert,",
+"target": "在拉贾斯坦邦沙漠，"
+"startTimeMs": 67640,
+"endTimeMs": 71200,
+"source": "where temperatures routinely hit 120 degrees Fahrenheit.",
+"target": "那里的气温经常高达华氏120度。"
+"startTimeMs": 71512,
+"endTimeMs": 74272,
+"source": "Villagers walk for miles in search of water.",
+"target": "村民们要走好几英里去寻找水源。"
+"startTimeMs": 74520,
+"endTimeMs": 78080,
+"source": "When they get to a well, they have to drink alongside their animals.",
+"target": "当他们到达水井时，他们不得不和牲畜一起喝水。"
+"startTimeMs": 79048,
+"endTimeMs": 83088,
+"source": "The annual monsoon rains now provide only temporary relief.",
+"target": "一年一度的季风雨现在只能提供暂时的缓解。"
+"startTimeMs": 83620,
+"endTimeMs": 87020,
+"source": "They don't replenish the amount of water that's used every year.",
+"target": "它们无法补充每年消耗的水量。"
+"startTimeMs": 87588,
+"endTimeMs": 89388,
+"source": "The question on everyone's mind.",
+"target": "每个人都在思考的问题。"
+"startTimeMs": 89740,
+"endTimeMs": 91220,
+"source": "Is there a solution?",
+"target": "是否有解决办法？"
+"startTimeMs": 91900,
+"endTimeMs": 95140,
+"source": "The government has proposed a series of new dams.",
+"target": "政府已经提出了一系列新建水坝的计划。"
+"startTimeMs": 95484,
+"endTimeMs": 98004,
+"source": "a plan that was met with fierce opposition.",
+"target": "但这一计划遭到了强烈反对。"
+"startTimeMs": 99308,
+"endTimeMs": 104548,
+"source": "Many people here believe India's existing dams have only made the water shortage worse.",
+"target": "这里的许多人认为，印度现有的水坝只会让缺水问题更加严重。"
+"startTimeMs": 105228,
+"endTimeMs": 106548,
+"source": "drying river beds,",
+"target": "河床干涸，"
+"startTimeMs": 106668,
+"endTimeMs": 108148,
+"source": "fields, and wells.",
+"target": "田地和井都干涸了。"
+"startTimeMs": 110800,
+"endTimeMs": 115640,
+"source": "The government has already invested thousands of millions of rupees in water policy in big dams.",
+"target": "政府已经在大坝和水政策上投入了数千亿卢比。"
+"startTimeMs": 115888,
+"endTimeMs": 117768,
+"source": "How do you explain villages with no water?",
+"target": "那你怎么解释这些没有水的村庄呢？"
+"startTimeMs": 117968,
+"endTimeMs": 119768,
+"source": "Who is responsible for all this?",
+"target": "这一切该由谁负责？"
+"startTimeMs": 120160,
+"endTimeMs": 125080,
+"source": "Well, the blame lies on the very system which advocates construction of a bigger dam.",
+"target": "好吧，问题就出在提倡修建更大水坝的体制上。"
+"startTimeMs": 126180,
+"endTimeMs": 133100,
+"source": "The trick to quenching India's thirst may lie hidden in a cluster of small villages in the Alwar district Rajasthan.",
+"target": "解决印度缺水问题的关键或许就藏在拉贾斯坦邦阿尔瓦尔地区的一群小村庄里。"
+"startTimeMs": 135076,
+"endTimeMs": 136796,
+"source": "This is rajantra sting.",
+"target": "这位是拉詹特拉·斯汀。"
+"startTimeMs": 137252,
+"endTimeMs": 142252,
+"source": "Founder of a non-governmental organization that works with villagers to rejuvenate water sources.",
+"target": "他是一家非政府组织的创始人，该组织与村民合作，致力于恢复水源。"
+"startTimeMs": 143400,
+"endTimeMs": 148000,
+"source": "He encourages villagers to use adventure techniques to transform their land.",
+"target": "他鼓励村民利用特殊技术来改造土地。"
+"startTimeMs": 148400,
+"endTimeMs": 152040,
+"source": "but to harvest water by building small earthen dams.",
+"target": "通过建造小型土坝来收集水源。"
+"startTimeMs": 152928,
+"endTimeMs": 154408,
+"source": "Under his guidance,",
+"target": "在他的指导下，"
+"startTimeMs": 154688,
+"endTimeMs": 158248,
+"source": "the people began collecting stone and rubble to make the dams.",
+"target": "人们开始收集石头和碎石来建造水坝。"
+"startTimeMs": 158864,
+"endTimeMs": 163224,
+"source": "The villagers made small pits and laid them with a porous bed of stone,",
+"target": "村民们挖了小坑，并在坑底铺上了多孔的石床，"
+"startTimeMs": 163584,
+"endTimeMs": 164984,
+"source": "earth, and clay.",
+"target": "泥土和粘土。"
+"startTimeMs": 165280,
+"endTimeMs": 167480,
+"source": "This stops the rainwater from seeping off.",
+"target": "这可以阻止雨水下渗流失。"
+"startTimeMs": 167800,
+"endTimeMs": 169760,
+"source": "and raises the groundwater level.",
+"target": "并提高地下水位。"
+"startTimeMs": 170632,
+"endTimeMs": 172592,
+"source": "With every shower of rain,",
+"target": "每下一场雨，"
+"startTimeMs": 172872,
+"endTimeMs": 174752,
+"source": "the water table rose higher.",
+"target": "地下水位就会上升一些。"
+"startTimeMs": 175624,
+"endTimeMs": 179184,
+"source": "and people started digging wells to irrigate their farms.",
+"target": "人们开始挖井来灌溉农田。"
+"startTimeMs": 179960,
+"endTimeMs": 182960,
+"source": "Soon, water reached every part of the village.",
+"target": "很快，水便流到了村子的每一个角落。"
+"startTimeMs": 183416,
+"endTimeMs": 187136,
+"source": "Today, once parched villages look like desert oases.",
+"target": "如今，曾经干涸的村庄宛如沙漠中的绿洲。"
+"startTimeMs": 188020,
+"endTimeMs": 189980,
+"source": "thanks to two small earth dams.",
+"target": "这得益于两座小型土坝。"
+"startTimeMs": 190308,
+"endTimeMs": 192428,
+"source": "People here are no longer starving.",
+"target": "这里的人们不再挨饿。"
+"startTimeMs": 192788,
+"endTimeMs": 196428,
+"source": "We are building water reservoirs and dams to save rainwater.",
+"target": "我们正在修建蓄水池和水坝来储存雨水。"
+"startTimeMs": 197028,
+"endTimeMs": 201228,
+"source": "We want our village Roda to be green and prosperous like Nimi.",
+"target": "我们希望我们的村庄罗达（Roda）能像尼米（Nimi）一样绿意盎然、繁荣昌盛。"
+"startTimeMs": 201900,
+"endTimeMs": 203300,
+"source": "Today, more than 4,",
+"target": "如今，超过4"
+"startTimeMs": 203420,
+"endTimeMs": 208980,
+"source": "000 earthen dams collect rainwater for more than 800 communities across western India.",
+"target": "000座土坝为印度西部800多个社区收集雨水。"
+"startTimeMs": 209560,
+"endTimeMs": 213680,
+"source": "These small-scale measures would not be enough to solve the problems in New Delhi.",
+"target": "这些小规模的措施不足以解决新德里的问题。"
+"startTimeMs": 214280,
+"endTimeMs": 219600,
+"source": "Experts believe that new water supplies and new conservation methods could delay the crisis.",
+"target": "专家认为，新的水源供应和新的保护方法可以延缓危机的到来。"
+"startTimeMs": 219940,
+"endTimeMs": 221820,
+"source": "But only for a decade or so.",
+"target": "但也只能延缓十年左右。"
+"startTimeMs": 222340,
+"endTimeMs": 225900,
+"source": "But perhaps the government can learn from the villagers here in Alwark.",
+"target": "不过，或许政府可以从阿尔瓦克（Alwark）的村民身上学到一些东西。"
+"startTimeMs": 226180,
+"endTimeMs": 228460,
+"source": "Certainly, things here have changed.",
+"target": "当然，这里的情况已经发生了变化。"
+"startTimeMs": 228900,
+"endTimeMs": 232780,
+"source": "It is likely that the long trek in search of water is a thing of the past.",
+"target": "长途跋涉寻找水源的日子很可能已成为过去。"
+"startTimeMs": 233140,
+"endTimeMs": 234460,
+"source": "For the people in Allwar,",
+"target": "对于阿尔瓦（Allwar）的人们来说，"
+"startTimeMs": 234820,
+"endTimeMs": 237660,
+"source": "a well full of water sits just down the road.",
+"target": "一口满水的井就在不远处。"

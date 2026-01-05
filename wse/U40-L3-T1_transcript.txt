@@ -1,0 +1,184 @@
+"startTimeMs": 400,
+"endTimeMs": 2840,
+"source": "Hawaii is a land of legends.",
+"target": "夏威夷是一片充满传奇的土地。"
+"startTimeMs": 3536,
+"endTimeMs": 7496,
+"source": "Legends that survived through generations in this tropical paradise.",
+"target": "在这片热带天堂里，传奇故事代代相传。"
+"startTimeMs": 8160,
+"endTimeMs": 12040,
+"source": "One of the most enduring of these stories tells the birth of the hula.",
+"target": "其中最为流传久远的一个故事讲述了呼啦舞的诞生。"
+"startTimeMs": 12416,
+"endTimeMs": 14216,
+"source": "more than 300 years ago.",
+"target": "300多年前。"
+"startTimeMs": 17800,
+"endTimeMs": 19440,
+"source": "The hula started,",
+"target": "呼啦舞起源于"
+"startTimeMs": 19880,
+"endTimeMs": 22080,
+"source": "well, as far as legend tells,",
+"target": "嗯，据传说所言"
+"startTimeMs": 22680,
+"endTimeMs": 27280,
+"source": "when Hiyaka and her good friend Hopoy went down the beach,",
+"target": "希亚卡（Hiyaka）和她的好友霍波伊（Hopoy）漫步在沙滩上，"
+"startTimeMs": 27640,
+"endTimeMs": 28880,
+"source": "then while they were there,",
+"target": "当时她们就在那里，"
+"startTimeMs": 29688,
+"endTimeMs": 30528,
+"source": "They notice",
+"target": "她们注意到"
+"startTimeMs": 31420,
+"endTimeMs": 32660,
+"source": "The waves",
+"target": "海浪"
+"startTimeMs": 33660,
+"endTimeMs": 37300,
+"source": "and they imitated the waves and then they started to",
+"target": "她们开始模仿海浪，接着开始"
+"startTimeMs": 37780,
+"endTimeMs": 45100,
+"source": "use their hands like you know portraying the waves and all and that's how the hula started.",
+"target": "用手比划，你知道的，描绘海浪等等，呼啦舞就是这样起源的。"
+"startTimeMs": 45540,
+"endTimeMs": 48940,
+"source": "When Christian missionaries landed on these shores in 1820",
+"target": "1820年，基督教传教士登上这些海岸时，"
+"startTimeMs": 49332,
+"endTimeMs": 53372,
+"source": "They were shocked by the scantily clad people performing ungodly dances.",
+"target": "他们被衣着暴露的人们跳着不敬神的舞蹈所震惊。"
+"startTimeMs": 55020,
+"endTimeMs": 59300,
+"source": "So shocked that they persuaded then-Queen Keikumani to ban the dance.",
+"target": "震惊之余，他们说服当时的女王凯库玛尼（Keikumani）禁止了这种舞蹈。"
+"startTimeMs": 60540,
+"endTimeMs": 64020,
+"source": "So, the hula went underground for almost sixty years.",
+"target": "因此，呼啦舞在地下流传了近六十年。"
+"startTimeMs": 65040,
+"endTimeMs": 68440,
+"source": "Except for a few people who managed to get official permission.",
+"target": "只有少数人设法获得了官方许可。"
+"startTimeMs": 68672,
+"endTimeMs": 70632,
+"source": "It was performed in secret.",
+"target": "它被秘密表演着。"
+"startTimeMs": 71232,
+"endTimeMs": 76552,
+"source": "These days, a resurgence of Hawaiian pride has brought new interest in elements of Hawaiian culture,",
+"target": "如今，夏威夷人自豪感的复苏引发了人们对夏威夷文化元素的新兴趣，"
+"startTimeMs": 76752,
+"endTimeMs": 77752,
+"source": "like the hula.",
+"target": "比如呼啦舞。"
+"startTimeMs": 78660,
+"endTimeMs": 81100,
+"source": "More and more people are attending Hilaus.",
+"target": "越来越多的人参加呼啦舞学校（Hilaus）。"
+"startTimeMs": 81524,
+"endTimeMs": 85404,
+"source": "schools where the dance is taught with traditional values and discipline.",
+"target": "这些学校传授舞蹈，并秉持传统价值观和纪律。"
+"startTimeMs": 86180,
+"endTimeMs": 89820,
+"source": "Learning the dance requires dedication and hard work.",
+"target": "学习这种舞蹈需要专注和努力。"
+"startTimeMs": 90388,
+"endTimeMs": 93948,
+"source": "Dancers spend long hours perfecting their routines.",
+"target": "舞者们花费很长时间完善他们的动作。"
+"startTimeMs": 94420,
+"endTimeMs": 97660,
+"source": "For hula master Kumanu Palani Kulala,",
+"target": "对于呼啦舞大师库马努·帕拉尼·库拉拉（Kumanu Palani Kulala）来说，"
+"startTimeMs": 97780,
+"endTimeMs": 102780,
+"source": "the dance is a way to make the best of ancient Hawaiian culture relevant to a modern audience.",
+"target": "这种舞蹈是一种让古老的夏威夷文化以最佳方式呈现给现代观众的方式。"
+"startTimeMs": 103444,
+"endTimeMs": 103944,
+"source": "Okay.",
+"target": "好的。"
+"startTimeMs": 104940,
+"endTimeMs": 113460,
+"source": "I try to instill in my students that the hula is more not so much a physical thing but more of a mental and a spiritual thing.",
+"target": "我试图向我的学生们灌输这样一个观念：呼啦舞与其说是一种身体上的活动，不如说是一种精神上的活动。"
+"startTimeMs": 113884,
+"endTimeMs": 114364,
+"source": "Thing.",
+"target": "事情。"
+"startTimeMs": 114444,
+"endTimeMs": 118564,
+"source": "For them, the dancing means very little because for Hawaiians today,",
+"target": "对他们来说，舞蹈本身意义不大，因为对于今天的夏威夷人来说，"
+"startTimeMs": 118764,
+"endTimeMs": 120244,
+"source": "many of them don't speak the language.",
+"target": "他们中的许多人已经不会说夏威夷语了。"
+"startTimeMs": 120524,
+"endTimeMs": 121924,
+"source": "So, what I try to do is to",
+"target": "所以，我试图做的是"
+"startTimeMs": 122460,
+"endTimeMs": 123380,
+"source": "to bring to mind",
+"target": "唤起他们的记忆"
+"startTimeMs": 123940,
+"endTimeMs": 126540,
+"source": "the reality that they see today.",
+"target": "让他们看到今天的现实。"
+"startTimeMs": 127300,
+"endTimeMs": 130140,
+"source": "Every spring the Merry Monarch Festival,",
+"target": "每年春天，梅里君主节（Merry Monarch Festival），"
+"startTimeMs": 130340,
+"endTimeMs": 131980,
+"source": "the premier hula competition,",
+"target": "首屈一指的呼啦舞比赛，"
+"startTimeMs": 132260,
+"endTimeMs": 133420,
+"source": "is held in Hilo.",
+"target": "在希洛（Hilo）举行。"
+"startTimeMs": 134040,
+"endTimeMs": 137600,
+"source": "Dancers from all the Hawaiian islands gather to compete.",
+"target": "来自夏威夷各岛的舞者们齐聚一堂，展开竞技。"
+"startTimeMs": 138056,
+"endTimeMs": 140736,
+"source": "They also come to honour the legendary king.",
+"target": "他们也前来向传奇国王致敬。"
+"startTimeMs": 141048,
+"endTimeMs": 146128,
+"source": "Who helped return the ancient practice to its rightful place at the center of Hawaiian culture?",
+"target": "这位国王帮助将这种古老习俗重新置于夏威夷文化的中心地位。"
+"startTimeMs": 147080,
+"endTimeMs": 149440,
+"source": "Hula dancers are judged on interpretation,",
+"target": "呼啦舞舞者的评判标准包括诠释力，"
+"startTimeMs": 149800,
+"endTimeMs": 152672,
+"source": "style, and the authenticity of their costumes.",
+"target": "风格，以及服装的真实性。"
+"startTimeMs": 153240,
+"endTimeMs": 155440,
+"source": "the way a skirt is wrapped or fastened,",
+"target": "比如裙子的包裹或系法，"
+"startTimeMs": 155800,
+"endTimeMs": 158864,
+"source": "the colour of the cloth, and flower arrangements.",
+"target": "布料的颜色，以及花卉的搭配。"
+"startTimeMs": 159336,
+"endTimeMs": 162656,
+"source": "Many hope Hawaii's hula revival will be a major step.",
+"target": "许多人希望夏威夷的呼啦舞复兴将成为重要的一步。"
+"startTimeMs": 162984,
+"endTimeMs": 166384,
+"source": "toward preserving ancient traditions for future generations.",
+"target": "为后代保护古老的传统。"
