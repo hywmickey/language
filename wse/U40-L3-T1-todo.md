@@ -11,3 +11,151 @@ What kind of people can be successful dancers? those who spend a lot of time stu
 What do many people hope the hula will do? maintain traditions.
 ```
 
+```
+# speak
+Hawaii is a land of legends that survived through generations in this tropical paradise.
+One of the most enduring of these stories tells the birth of the hula more than 300 years ago.
+As legend tells it, the hula started when the goddess Hiiaka and her good friend went down to the beach.
+While they were there they noticed the waves, and started to imitate them, using their hands to portray the waves.
+imitate: /ˈɪmɪteɪt/
+portray: /pɔːrˈtreɪ/
+
+# test
+Hawaii is a land of many traditional stories.
+The legned of how she became queen is famous all over the country.
+她如何成为王后的故事在全国都很有名。
+The revival of the hula provides an enduring gift for years to come.
+草裙舞的复兴为未来岁月献上了一份永恒的礼物。
+revival: /rɪˈvaɪvl/ n.复兴
+Legends survive in the art, dance, and culture of the people.
+传说在人们的艺术、舞蹈和文化中得以流传。
+Thanks to oral traditions, future generations will remember their culture's past.
+得益于口耳相传的传统，后代将铭记他们文化的过往。
+The dance portrays the birth of the goddess.
+这段舞蹈描绘了女神的诞生。
+```
+
+```
+# speak
+When Christian missionaries landed here in 1820, they were shocked by the lightly dressed people performing "ungodly" dances.
+Christian missionaries: /ˈkrɪstʃən ˈmɪʃəˌnɛriz/
+1820: eighteen twenty
+They were so shocked that they persuaded the queen to ban the dance.
+So, the hula went underground for almost sixty years.
+Except for a few people who managed to get official permission, it was performed in secret.
+
+# test
+I was shocked to hear that she has cancer.
+Smoking is banned in all public places.
+The meetings went underground when the government prohibited them.
+当政府禁止这些会议时，它们就转入地下进行。
+prohibited: /prəˈhɪbɪtɪd/ v.(尤指以法令)禁止；阻止；使不可能
+As much as the employees try to persuade their boss to let them wear jeans, he won't let them. 
+尽管员工们努力说服老板让他们穿牛仔裤，但老板就是不同意。
+as much as : 1. 尽管/虽然, 2.和...一样多
+You need official permission to leave the country.
+We have to organize the demonstration in secret. We don't want the police to know when or where it will be.
+```
+
+```
+# speak
+More and more people are attending schools where the dance is taught with traditional values and discipline.
+越来越多的人就读于那些以传统价值观和规范教授舞蹈的学校。
+discipline: /ˈdɪsəplɪn/
+Learning the dance requires dedication and hard work.
+学习草裙舞需要全身心投入/热情与刻苦努力。 
+dedication: /ˌdedɪˈkeɪʃn/
+Dancers spend long hours perfecting their routines.
+舞者们会花费大量时间打磨自己的舞蹈套路。/舞者们花费大量时间来完善他们的舞蹈动作。
+routines: /ruˈtinz/
+The hula is not so much physical but more mental and spiritual.
+草裙舞与其说是一种身体运动，不如说是一种心理和精神上的体验。
+So, I try to bring to mind the reality of today.
+所以，我试着去意识到今天的现实。
+bring to mind: 使想起、让意识到
+reality: 现实，实际
+
+# test
+How often do you attend school? - Three days a week, usually.
+What is taught at your school? - Mostly fashion design and the fashion business.
+What kind of school do you attend? - It's an adult professional traning college.
+How can students keep to their study routine? - They need to be disciplined, and they need to start with a lot of dedication.
+学生如何保持学习习惯？——他们需要自律，并且需要从一开始就充满热情。
+How have you manage to perfect your English? - Through lots and lots of hard work!
+你是如何将英语掌握得如此出色的？——通过大量的刻苦努力！
+perfect: vt. 使完善；使完美；使完备
+What do the teachers in your school require of the students? - They expect us to work hard and to keep practising.
+你们学校的老师对学生有什么要求？- 他们希望我们努力学习并坚持练习。
+```
+
+```
+# speak
+Every spring, the premier hula competition is held.
+Dancers from all the islands gather to compete.
+The ancient practice of hula has returned to its rightful place at the center of Hawaiian culture.
+古老的草裙舞已重返其应有的位置，成为夏威夷文化的核心。
+rightful: 正确的;合法的;公正的
+Hula dancers are judged on interpertation, style, and the authenticity of their costumes, the way a skirt is wrapped, the color of the cloth, and the arrangements of the flowers.
+草裙舞者的评判标准包括其表演的诠释度、风格以及服装的真实性，如裙子的包裹方式、布料的颜色以及花朵的布置。
+interpertation: /ɪnˌtɜːrprəˈteɪʃn/
+
+# test
+Each year, there is a huge Spanish food cometition in the city.
+It is held in the spring at the community center.
+People from all over the state gather to compete.
+The people take pride in the authenticity of their dishes, saying that the food tastes just like it does.
+人们以他们菜肴的正宗性为荣，并说食物的味道和它原本的味道一样。
+The dishes are judged on how the food tastes and how it looks.
+The arrangement of the food on the plate is also important.
+```
+
+```
+# speak
+These days, a resurgence of Hawaiian pride has brought new interest in elements of Hawaiian culture like the hula.
+如今，夏威夷民族自豪感的复兴，让人们对夏威夷文化元素（如草裙舞）产生了新的兴趣。
+Many hope that Hawaii's hula revival will be a major step toward preserving ancient traditions for future generations.
+ancient: /ˈeɪnʃənt/
+许多人希望，夏威夷草裙舞的复兴，能成为为后代传承古老传统的重要一步。
+
+# test
+I was shocked when I hear that he had died.
+Many cities in the United States have a ban on smoking in public places.
+They always talk about their daughter with pride.
+Stealing goes against my values.
+偷窃违背了我的价值观。
+Many people feel more spiritual after going to church.
+许多人去教堂后感觉更有精神了。
+Books preserve knowledges for many future generation.
+I can't study anymore, I have a mental block.
+我无法再学习了，我思维受阻。
+We thought there was no more violence in our country; however, there has been a resurgence.
+我们原以为国内已无暴力事件；然而，暴力事件却再次抬头。
+```
+
+```
+# speak
+The dance is a way to make the best of ancient Hawaiian culture relevant to a modern audience.
+草裙舞是让夏威夷古代文化精华与现代观众产生联结的一种方式。
+make the best of：“充分利用、发掘……的精华”
+relevant to：“与……相关、与……联结”
+```
+
+`Read the Article`
+
+THE HULA
+
+Hawaii brings to mind images of white beaches, tropical plants, and women in grass skirts with flowers in their hair, swaying gently to music. While the image of a grass-skirted woman may represent Hawaii for many, this dance, the hula, is so much more than just musical movement.
+
+The hula dance actually finds its base in poetry, rather than music. This poetry, called mele, is the heart of the movements which are visual representations of the poems. While most believe the hula to be just a dance, it in fact has a long tradition which springs from cultural rituals and beliefs. Laka, the hula goddess, plays her role in the hula tradition. Religious rituals are dedicated to this goddess and form a part of the dancers' training. Even the plants used are an important part of the tradition. flowers from the hula altar are used in the flower necklaces, called leis, which the dancers wear.
+
+Although much of the ceremony and the rituals of the traditional hula dancing are dedicated to the gods of traditional Hawaiian society, the hula has also always been a form of entertainment. The myth of Pele, the goddess of the volcano, was one of the earliest known hula interpretations. This myth tells the story of Pele's younger sister, who learns a dance which she performs for Pele.
+
+With the arrival of the American missionaries in the early 1800s, the hula and its traditions were kept in secret. Once the missionaries' censorship was lifted, the hula once again began to be brought to light. It was King Kalakaua who encouraged the rebirth of the hula, and for the next twenty years, the hula became popular once more.
+
+The early 1900s brought an increase in tourism, and at the same time, the hula began to become known as general entertainment. With this change in focus and outside influences, the hula also began to change. A new, more western style of music was introduced to the hula, with string instruments like the ukulele and guitar accompanying the dance rather than percussion instruments like drums. 
+
+Songs with tunes and melodies were sung with the dance, replacing the traditional chanting of before. This newer hula made its way into the movies and the media, creating a certain stereotype, at times incorrect, about the dance and culture. This stereotype still exists today.
+
+However, in the 1970s, a desire to get back to the traditional hula, known as the hula kahiko, emerged. It did not replace the newer, westernized hula, or hula auana, but rather reappeared alongside it. Apart from the musical differences of the two styles of hula, the hula kahiko and hula auana differ in their dance style and, often, dress, The kahiko dance style tends to be much more lively and energetic while the auana is softer and more fluid. Hula kahiko dancers tend to wear more traditional native costumes or traditional skirts over western clothing, while the hula auana dancers tend to wear western clothing.
+
+Nowadays, there are private hula schools, or halau, that train hula groups. The head instructor is responsible for all areas of the dancers training, dress, and dance presentation. Many of these master instructors also research poetio texts to motivate their students to remember the rich Hawaiian tradition and history which the poems present and inspire the dance of the hula, generations to come will appreciate and remember the rich culture and history of Hawaii.

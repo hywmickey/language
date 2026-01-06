@@ -505,13 +505,13 @@
 
 ### 20. Hula dancers are judged on interpretation, style, and the authenticity of their costumes, the way a skirt is wrapped or fastened, the colour of the cloth, and flower arrangements.
 #### 精准翻译
-草裙舞舞者的评分标准包括：对舞蹈的诠释、舞蹈风格、服饰的真实性——比如裙摆的缠绕或系扣方式、布料的颜色，以及配饰花艺的搭配。  
+草裙舞舞者的评分标准包括：对舞蹈的诠释、舞蹈风格、服饰的正宗性——比如裙摆的缠绕或系扣方式、布料的颜色，以及配饰花艺的搭配。  
 （注：“are judged on”译为“评分标准包括”，比直译“基于……被评判”更符合中文赛事语境；拆分长宾语为中文短句，用破折号补充说明服饰细节，使逻辑更清晰；“flower arrangements”译为“配饰花艺的搭配”，贴合服饰搭配的语境，避免直译“插花”。）
 
 #### 核心词汇精细化辨析
 - **are judged on**：“基于……被评判、评分标准包括”，judge此处指“评判、打分”（=assess/evaluate）。例句：Contestants are judged on creativity, skill, and presentation.（参赛者的评分标准包括创意、技能和表现力。）
 - **interpretation**：名词，“诠释、演绎”，此处指“对舞蹈内涵的理解与表达”（区别于“翻译”的含义）。例句：The actor’s interpretation of the role won critical acclaim.（这位演员对角色的诠释赢得了评论界的赞誉。）
-- **authenticity**：名词，“真实性、原汁原味”，强调“符合传统/原始特质”（=genuineness）。例句：The restaurant prides itself on the authenticity of its traditional dishes.（这家餐厅以其传统菜肴的原汁原味为傲。）
+- **authenticity**：名词，“真实性、原汁原味、正宗性”，强调“符合传统/原始特质”（=genuineness）。例句：The restaurant prides itself on the authenticity of its traditional dishes.（这家餐厅以其传统菜肴的原汁原味为傲。）
 - **wrapped or fastened**：“缠绕或系扣”，wrap（缠绕、包裹）+ fasten（系紧、固定），此处指裙摆的固定方式。例句：The gift was wrapped neatly and fastened with a ribbon.（礼物包装整齐，用丝带系好。）
 - **flower arrangements**：“花艺搭配、插花装饰”，此处指草裙舞服饰的花艺配饰。例句：The wedding’s flower arrangements were elegant and romantic.（婚礼的花艺搭配优雅浪漫。）
 
