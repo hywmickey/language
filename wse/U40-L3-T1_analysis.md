@@ -79,7 +79,7 @@
 3. Online shopping originated less than three decades ago but became widespread.（网购起源于不到三十年前，但如今已普及。）
 
 
-### 4. Well, as far as legend tells, when Hiyaka and her good friend Hopoy went down the beach, then while they were there, they noticed the waves and they imitated the waves and then they started to use their hands like you know portraying the waves and all and that's how the hula started.
+### 4. Well, as far as legend tells, when Hiyaka and her good friend Hopoy went down the beach, then while they were there, they noticed the waves, and they imitated the waves, and then they started to use their hands like you know portraying the waves and all, and that's how the hula started.
 #### 精准翻译
 嗯，据传说所述，当希娅卡（Hiyaka）和她的好友霍波伊（Hopoy）来到海滩时，在那里留意到了海浪，便模仿海浪的姿态，接着用双手比划，展现出海浪的模样等等——草裙舞就是这样起源的。  
 （注：处理口语插入语“well/like you know/and all”，译为“嗯/等等”；人名音译+原文标注；拆分长句为中文短句，避免冗长；“portraying the waves”意译为“展现出海浪的模样”更自然。）
