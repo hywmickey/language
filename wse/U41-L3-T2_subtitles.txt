@@ -1,0 +1,118 @@
+"source": "The fertile hills between Florence and Siena.",
+"target": "佛罗伦萨与锡耶纳之间肥沃的山丘。"
+"source": "home to some of the world's best-known vineyards.",
+"target": "这里拥有一些举世闻名的葡萄园。"
+"source": "This is Chianti,",
+"target": "这是基安蒂葡萄酒，"
+"source": "one of Italy's renowned wine regions.",
+"target": "意大利著名的葡萄酒产区之一。"
+"source": "Grevit.",
+"target": "格雷维特。"
+"source": "Population 4, 000 is the center for the wine trade and other local products like mushrooms and cheese.",
+"target": "人口4000，是葡萄酒贸易以及蘑菇和奶酪等当地特产的集散中心。"
+"source": "This is a place that appreciates tradition.",
+"target": "这是一个崇尚传统的地方。"
+"source": "Greve is a place where time",
+"target": "格雷沃是个时光驻足之地"
+"source": "is never rushed.",
+"target": "从不仓促行事。"
+"source": "Our challenge and our duty is to try to maintain the soul.",
+"target": "我们所面临的挑战和肩负的职责是尽力守护灵魂。"
+"source": "the essence, the specialness of Greve,",
+"target": "格雷夫（Greve）的精髓与独特之处，"
+"source": "in Chianti and all the other slow cities.",
+"target": "在基安蒂和其他所有慢城。"
+"source": "Drove's mayor and mayors from three other Italian cities created the Slow Cities League.",
+"target": "德罗镇镇长与其他三个意大利城市的市长共同创立了“慢城联盟”。"
+"source": "Their mission",
+"target": "他们的使命"
+"source": "to keep their hometowns from moving into the fast lane.",
+"target": "以避免家乡步入发展快车道。"
+"source": "Out of that sprang the slow food movement.",
+"target": "由此催生了慢食运动。"
+"source": "It's simple.",
+"target": "很简单。"
+"source": "Preserve the pleasures of good living,",
+"target": "留住美好生活的乐趣，"
+"source": "good food.",
+"target": "美味的食物。"
+"source": "family and friends.",
+"target": "家人和朋友。"
+"source": "Now the movement has gone international,",
+"target": "如今，这场运动已走向国际，"
+"source": "more than 66, 000 members worldwide.",
+"target": "全球范围内拥有逾66,000名会员。"
+"source": "It's very nice to live here because we have a nice",
+"target": "住在这里非常惬意，因为我们环境优美"
+"source": "atmosphere, we have a nice landscapes and so",
+"target": "氛围很好，还有美丽的风景等等"
+"source": "when you have nice things.",
+"target": "当你拥有好东西时。"
+"source": "To see a nice place to live in,",
+"target": "想寻一处宜居之地，"
+"source": "it's very easy.",
+"target": "这很简单。"
+"source": "Salvatore Toscano",
+"target": "萨尔瓦托雷·托斯卡诺"
+"source": "Left the fast life behind.",
+"target": "告别了快节奏的生活。"
+"source": "He ran an American-style restaurant in Florence,",
+"target": "他在佛罗伦萨经营着一家美式餐厅，"
+"source": "where he spent his days serving up burgers.",
+"target": "他在那里以卖汉堡为生。"
+"source": "Five years ago, he dumped his French fryer.",
+"target": "五年前，他扔掉了自己的炸薯条机。"
+"source": "and move to Grevé.",
+"target": "然后搬到格雷韦。"
+"source": "where he's opened a new restaurant.",
+"target": "他在那里开了一家新餐馆。"
+"source": "It means taking the time.",
+"target": "这意味着要花时间。"
+"source": "Finding the rhythm that lets you live more calmly.",
+"target": "找到让你生活得更加平静的节奏。"
+"source": "in a lot of ways starting of course with what you eat.",
+"target": "在很多方面，首先当然是从你的饮食开始。"
+"source": "In the mountains of Castoia,",
+"target": "在卡斯托亚山区，"
+"source": "in northern Tuscany.",
+"target": "在托斯卡纳北部。"
+"source": "Generations of farmers have produced a pecorino cheese.",
+"target": "世世代代的农夫都在制作一种佩科里诺奶酪。"
+"source": "they say he is one of a kind.",
+"target": "人们说他独一无二。"
+"source": "Made from the raw milk of black sheep,",
+"target": "由黑羊的原奶制成，"
+"source": "the cheese is hand-molded twice a day.",
+"target": "这种奶酪每天手工塑形两次。"
+"source": "But this tradition had been dying out.",
+"target": "但这一传统已逐渐消亡。"
+"source": "Until slow food stepped in.",
+"target": "直到慢食运动介入。"
+"source": "With a campaign to organize the farmers and promote the chieves,",
+"target": "通过发起组织农民和推广大葱的行动，"
+"source": "both are making a comeback.",
+"target": "两者都在卷土重来。"
+"source": "It's brought us a kind of notoriety.",
+"target": "这给我们带来了某种恶名。"
+"source": "Not everyone knew about our product.",
+"target": "并非所有人都了解我们的产品。"
+"source": "The project is getting us noticed.",
+"target": "这个项目正让我们受到关注。"
+"source": "From Singapore to Macau",
+"source": "从新加坡到澳门",
+"source": "From New York and Rome,",
+"target": "从纽约到罗马，"
+"source": "you always find the same pizza,",
+"target": "你总是能找到同样的披萨，"
+"source": "the same hamburgers.",
+"target": "同样的汉堡包。"
+"source": "Slow food doesn't want this.",
+"target": "慢食运动不希望如此。"
+"source": "Slow Food wants the specialness of every product to be respected.",
+"target": "慢食运动希望每一款产品的独特性都能得到尊重。"
+"source": "Grevé is not trying to escape the modern world.",
+"target": "格雷韦并非试图逃避现代世界。"
+"source": "It's a city that is simply enjoying itself,",
+"target": "这是一座尽情享受自我的城市，"
+"source": "doing its best to take it slow.",
+"target": "尽其所能放慢节奏。"
