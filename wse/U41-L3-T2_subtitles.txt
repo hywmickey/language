@@ -99,7 +99,7 @@
 "source": "The project is getting us noticed.",
 "target": "这个项目正让我们受到关注。"
 "source": "From Singapore to Macau",
-"source": "从新加坡到澳门",
+"target": "从新加坡到澳门",
 "source": "From New York and Rome,",
 "target": "从纽约到罗马，"
 "source": "you always find the same pizza,",
