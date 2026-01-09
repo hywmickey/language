@@ -1,4 +1,4 @@
-### T2-U41-L3[todo]
+### T2-U41-L3
 
 ```
 # test
@@ -192,4 +192,83 @@ Slow Food does not want us to become a world where children think of meal time a
 
 However, Slow Food is not just a movement for those few organic nuts. It actually has quite a bit of political clout as well. It showed its power when the European Union attempted to enforce uniformly strict hygiene standards for all European food producers. The Slow Food Movement realized that these standards would have made it impossible for thousands of small farmers because they would have had to create extensive reports and piles of paperwork and purchase new equipment which would drive them out of business. Slow Food stepped in with a petition that was signed by more than 500,000 people, and this resulted in Italy obtaining exemptions from the EU for thousands of skillful creators of food products.
 
-The question which now remains is if it is possible for Slow Food to become a mass movement that can reach beyond a minority of concerned consumers. There are several reasons to support the likelihood of Slow Food becoming a mass movement. When the movement first started, it focused its efforts on preserving Itaian wine and food. However, as the movement has grown, it has also taken other countries's products under its wings. Other examples of foods that the Slow Food Movement has protected or saved are Clifornia's Sun Crest Peach, Nova Scotia s red fife wheat, and Japan's kyo-ninjin. Additionally, according to a Slow Food survey, a large portion of Italians say they would pay up to 20 percent more for food if it would guarantee the quality of the food. So perhaps there is a growing demandfor a return to the traditional, to a slower life, and to healthier, more quality food.
+The question which now remains is if it is possible for Slow Food to become a mass movement that can reach beyond a minority of concerned consumers. There are several reasons to support the likelihood of Slow Food becoming a mass movement. When the movement first started, it focused its efforts on preserving Itaian wine and food. However, as the movement has grown, it has also taken other countries's products under its wings. Other examples of foods that the Slow Food Movement has protected or saved are Clifornia's Sun Crest Peach, Nova Scotia s red fife wheat, and Japan's kyo-ninjin. Additionally, according to a Slow Food survey, a large portion of Italians say they would pay up to 20 percent more for food if it would guarantee the quality of the food. So perhaps there is a growing demand for a return to the traditional, to a slower life, and to healthier, more quality food.
+
+```
+# test
+In what new way is Italian cuisine becoming famous? - It is getting back to its traditional roots.
+Where is the Slow Food Movement occurring? - all over the world.
+Which of the following does the Slow Food Movement believe in? - pesticide-free food.
+What kind of food does the Slow Food Movement favor? - They believe in food which is grown in a natural way, free of chemicals.
+Why were some specialty foods endangered? - because farmers could not compete with the big food industries.
+What kind of foods has the Slow Food Movement helped to protect? - fruits, vegetables, meats, dairy products and beverages.
+What does Petrini want consumers to do? - He wants us to raise the demand for slow food.
+How has the Slow Food Movement affected European politics? - It has succeeded in getting certain foods in Italy excused from strict hygiene standards for all European food producers.
+How has the Slow Food Movement changed since it started? - It now works to preserve traditional food and drink in other countries.
+```
+
+```
+# test
+People really like to visit the peace of Chianti because they can take a moment to live their lives calmly.
+Religious people think it important to say prayers.
+信教的人认为祈祷很重要。
+Some people like the fast rhythm of life in the city.
+有些人喜欢城市中快节奏的生活。
+When I travel for vacation, I like to take international trips because I take a lot of international trips for work.
+度假旅行时，我喜欢出国游，因为工作原因我经常出国出差。
+Food is really the essence of this community's life.
+食物确实是这个社区生活的核心。
+Modern furniture was really popular for a long time, but now antiques are making a comeback.
+代家具曾流行了很长一段时间，但如今古董家具正再度兴起。
+make a comeback : 再度兴起；回归流行
+If I travel outside of America, I never go to American-style restaurants.
+That town is full of life and warmth. It really has soul.
+I think it is important for communities to be able to produce their own food and not depend on imports.
+Tourists who are interested in wine might visit a vineyard.
+Paris is renowned for its fashion. 
+I think self-service restaurants take away from the experience of eating out.
+```
+
+```
+# test
+For many people today, life in the fast lane is very tiring.
+对于今天的许多人来说，快节奏的生活非常令人疲惫。
+So people are trying to get back to the enjoying the essence of life.
+所以人们正试图回归到享受生活的本质。
+Taking pleasure in life and food in a slower rhythm seems to be popular again.
+A return to tradition where cooking and eating is never rushed is what people are looking for these days.
+如今，人们追求的是回归传统，烹饪和用餐时不再急匆匆。
+Hand-molded cheeses are one example of this return to tradition.
+The slow life is making a comeback.
+Even the farmers today are getting in on the movement.
+如今，就连农民们也加入了这一运动。
+They produce with care rather than with spead.
+他们精心制作，而非粗制滥造。
+And people worldwide are beginning to see the advantage of taking it slow.
+全世界的人们开始意识到放慢节奏的好处。
+And perhaps it is the fast life which will soon die out.
+也许，快节奏的生活很快就会消亡。
+```
+
+```
+# test
+Our duty is to go to those places where we can help people the most.
+我们的职责是前往那些我们能为人们提供最大帮助的地方。
+How can I keep you from going there by yourself?
+我怎么能阻止你一个人去那里呢？
+Gone from our home, the children finally needed to find their own way in the world.
+离开了我们的家，孩子们最终需要找到自己在世界上的路。
+The bodys had been playing when it started to rain.
+We had a lot of energy considering that we hadn't slept much.
+Lisa: "I don't want to go anywhere warm on vacation." Tom: "In that case, let's go somewhere cold."
+Due to that warm weather, we can wear light clothes.
+Since it is warm outside, we needn't wear sweaters.
+Tom: "This is for my girlfriend" Lisa: "For whom?"
+汤姆：“这是给我女朋友的。”丽莎：“给谁？”
+I don't know how I thought of it. The idea sprang out of nowhere.
+我不知道自己是怎么想到这个主意的。这个想法不知从何而来。
+I don't want to talk to Sam. He keeps on bothering me about a job.
+If you're going home, I might as well leave, too. I don't want to be here if you aren't.
+如果你回家，那我也离开好了。如果你不在，我也不想待在这里。
+```
+
