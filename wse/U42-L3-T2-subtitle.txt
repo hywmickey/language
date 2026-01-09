@@ -1,0 +1,102 @@
+"source": "One of North America's most unique treasures will be preserved forever.",
+"target": "北美最独特的瑰宝之一将得到永久的保护。"
+"source": "It's the only temperate climate rainforest in the world,",
+"target": "它是世界上唯一的温带雨林，"
+"source": "on the west coast of Canada.",
+"target": "位于加拿大西海岸。"
+"source": "A walk through the Yalahu Valley reveals both faces of this unique rainforest.",
+"target": "漫步于亚拉胡山谷，你会发现这片独特雨林的两面。"
+"source": "One is green and lush,",
+"target": "一面是绿意盎然、生机勃勃，"
+"source": "where thousand year old trees tower above you and where there's wildlife in great abundance.",
+"target": "千年古树高耸入云，野生动物种类繁多。"
+"source": "The other is scarred where trees have been cut.",
+"target": "另一面则是树木被砍伐后留下的伤痕。"
+"source": "and where wide sections of forest have been left bare and deserted.",
+"target": "大片森林变得光秃秃的，一片荒芜。"
+"source": "In the last three decades,",
+"target": "在过去的三十年里，"
+"source": "conservationists have watched commercial logging companies intensify their activities here.",
+"target": "自然资源保护主义者目睹了商业伐木公司在此地活动的加剧。"
+"source": "using clear cutting practices to harvest massive quantities of cedar.",
+"target": "他们采用皆伐作业的方式，砍伐了大量的雪松。"
+"source": "spruce and hemlock.",
+"target": "云杉和铁杉。"
+"source": "This is the last large intact section of temperate rainforest in western Canada.",
+"target": "这是加拿大西部最后一片大面积完整的温带雨林。"
+"source": "home to the mythical Kermodi spirit Bear.",
+"target": "是神秘的柯莫德白灵熊的家园。"
+"source": "Grizzlies up there, there's wolves up there,",
+"target": "那里有灰熊，有狼，"
+"source": "there's Cougars up there.",
+"target": "还有美洲狮。"
+"source": "And that means in a North American context,",
+"target": "这意味着，在北美，"
+"source": "in a world context.",
+"target": "乃至全世界范围内，"
+"source": "That's a pretty special piece of real estate up there.",
+"target": "那都是一片非常特殊的土地。"
+"source": "Environmentalists have been fighting to protect that real estate.",
+"target": "环保主义者一直在为保护这片土地而奋斗。"
+"source": "waging war against the logging companies.",
+"target": "与伐木公司展开斗争。"
+"source": "Disrupting their business and launching a global marketing campaign,",
+"target": "干扰他们的伐木生意，并发起全球营销活动，"
+"source": "urging consumers around the world to boycott timber taken from Canada.",
+"target": "敦促全球消费者抵制来自加拿大的木材。"
+"source": "But now, these archenemies have formed an unusual alliance.",
+"target": "但现在，这些死对头结成了不同寻常的联盟。"
+"source": "In an effort to put this matter to rest,",
+"target": "为了解决这一问题，"
+"source": "British Columbia has announced the creation of the Great Bear Rainforest,",
+"target": "不列颠哥伦比亚省宣布建立大熊雨林保护区，"
+"source": "a park that will cover millions of acres along the coast.",
+"target": "该公园将覆盖沿海数百万英亩的土地。"
+"source": "Once the ancestral home to native tribes,",
+"target": "这里曾是原住民部落的祖居地，"
+"source": "The land has been compared to the Galapagos Islands because of its abundant wildlife and vegetation.",
+"target": "因其丰富的野生动植物资源，这片土地被比作加拉帕戈斯群岛。"
+"source": "Some believe that the massive boycott led by conservationists in the late 90s jump-started negotiations.",
+"target": "一些人认为，20世纪90年代后期环保主义者发起的大规模抵制活动推动了谈判的开展。"
+"source": "Others, like Logging Industry Representative Linda Cody,",
+"target": "另一些人，如伐木业代表琳达·科迪，"
+"source": "believe there was more to it than that.",
+"target": "则认为事情远不止如此。"
+"source": "It wasn't just the campaign,",
+"target": "你知道，这不仅仅是抵制活动的问题。"
+"source": "you know.",
+"target": "我是说，我们的客户不会每天早上都打电话给绿色和平组织，询问该怎么想。"
+"source": "I mean our customers don't phone up greenpeace every morning to find out how to think.",
+"target": "我是说，在全球和地方范围内，人们对环境问题的价值观已经发生了转变。"
+"source": "I mean there has been a shift in values around environmental issues globally and locally.",
+"target": "经过多年的紧张讨论，"
+"source": "After years of tense discussions,",
+"target": "环保组织、"
+"source": "a compromise was reached between environmental organizations,",
+"target": "伐木业、"
+"source": "the logging industry,",
+"target": "原住民部落和政府之间达成了妥协。"
+"source": "the native tribes, and the government.",
+"target": "根据新协议，"
+"source": "Under the new agreement,",
+"target": "440"
+"source": "the 4.",
+"target": "万英亩的公园将受到联邦保护。"
+"source": "4 million acre park will be under federal protection.",
+"target": "此外，1000万英亩的土地将由一个委员会监管，该委员会的任务是保持伐木、"
+"source": "In addition, 10 million acres of land will be overseen by a committee set with the task of keeping a balance between logging.",
+"target": "采矿和原住民利益之间的平衡。"
+"source": "mining and native interests.",
+"target": "。"
+"source": "In the end, the total amount of protected land could come to 21 million acres.",
+"target": "最终，受保护土地的总面积可能达到2100万英亩。"
+"source": "an area almost 10 times the size of Yellowstone National Park.",
+"target": "面积几乎是黄石国家公园的10倍。"
+"source": "Some activities may be possible in some areas in the Great Bear,",
+"target": "在大熊雨林的一些区域，可能会允许开展某些活动，"
+"source": "but we won't see large-scale development.",
+"target": "但我们不会看到大规模的开发。"
+"source": "We won't see clear cutting that strips bare the mountainsides.",
+"target": "我们不会看到对山坡进行砍伐殆尽的皆伐作业。"
+"source": "We'll see a much lighter footprint on the earth.",
+"target": "我们将看到人类对地球的影响大大减轻。"
