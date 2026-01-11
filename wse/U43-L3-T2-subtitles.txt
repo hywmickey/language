@@ -1,0 +1,192 @@
+"startTimeMs": 0,
+"endTimeMs": 1400,
+"source": "It looks like a barren,",
+"target": "这里看似一片贫瘠、"
+"startTimeMs": 1600,
+"endTimeMs": 2920,
+"source": "inhospitable land.",
+"target": "不适宜居住的土地。"
+"startTimeMs": 3088,
+"endTimeMs": 5288,
+"source": "The Arctic has long been a mysterious,",
+"target": "长期以来，北极一直是一个神秘莫测、"
+"startTimeMs": 5408,
+"endTimeMs": 11208,
+"source": "icy wonderland known only to intrepid explorers and the strong indigenous people who call it home.",
+"target": "冰雪覆盖的仙境，只有无畏的探险家和将其视为家园的强壮的土著居民才了解它。"
+"startTimeMs": 11860,
+"endTimeMs": 18860,
+"source": "It is generally considered to encompass the area above the Arctic Circle at approximately 66 degrees north latitude.",
+"target": "一般认为，北极地区包括北极圈以北、北纬约66度的区域。"
+"startTimeMs": 19040,
+"endTimeMs": 22040,
+"source": "It's an environment comprised of frigid seas,",
+"target": "这里的环境由冰冷的海域、"
+"startTimeMs": 22400,
+"endTimeMs": 27000,
+"source": "ice sheets, and landscapes covered in frozen soil known as tundra.",
+"target": "冰盖和覆盖着冻土（被称为苔原）的景观组成。"
+"startTimeMs": 27312,
+"endTimeMs": 29832,
+"source": "At the center, in a mass of sea ice,",
+"target": "在中心，一片海冰之中，"
+"startTimeMs": 30112,
+"endTimeMs": 31032,
+"source": "lies the north.",
+"target": "便是北极。"
+"startTimeMs": 31060,
+"endTimeMs": 31660,
+"source": "North Pole",
+"target": "北极"
+"startTimeMs": 31828,
+"endTimeMs": 35628,
+"source": "The geographic North Pole is different from magnetic north.",
+"target": "地理北极与磁北极不同。"
+"startTimeMs": 36180,
+"endTimeMs": 39740,
+"source": "which directs compasses and actually lies south of true north.",
+"target": "磁北极指引着指南针的方向，实际上位于真北极的南方。"
+"startTimeMs": 40240,
+"endTimeMs": 41800,
+"source": "Above the Arctic Circle,",
+"target": "在北极圈之上，"
+"startTimeMs": 41920,
+"endTimeMs": 45000,
+"source": "daylight can last more than a full day during the summer.",
+"target": "夏季的日照时间可以持续一整天以上。"
+"startTimeMs": 45160,
+"endTimeMs": 48480,
+"source": "In the winter months, the land is left to darkness.",
+"target": "在冬季，这里则陷入黑暗之中。"
+"startTimeMs": 48936,
+"endTimeMs": 50336,
+"source": "In this harsh land,",
+"target": "在这片严酷的土地上，"
+"startTimeMs": 50456,
+"endTimeMs": 54496,
+"source": "temperatures can drop to as low as minus 90 degrees Fahrenheit.",
+"target": "气温可降至零下90华氏度。"
+"startTimeMs": 54720,
+"endTimeMs": 55760,
+"source": "Even in summer,",
+"target": "即使在夏季，"
+"startTimeMs": 55920,
+"endTimeMs": 58840,
+"source": "the warmest month averages only about 50 degrees.",
+"target": "最温暖的月份平均气温也只有约50华氏度。"
+"startTimeMs": 59216,
+"endTimeMs": 61176,
+"source": "Despite these physical extremes,",
+"target": "尽管自然条件如此恶劣，"
+"startTimeMs": 61296,
+"endTimeMs": 63736,
+"source": "people and animals have been able to make it home.",
+"target": "人类和动物仍能在此安居。"
+"startTimeMs": 64300,
+"endTimeMs": 69060,
+"source": "Inuit and other indigenous peoples have lived in this region for thousands of years.",
+"target": "因纽特人和其他土著居民已在这片地区生活了数千年。"
+"startTimeMs": 69324,
+"endTimeMs": 72084,
+"source": "They've survived by adapting to their environment.",
+"target": "他们通过适应环境而生存下来。"
+"startTimeMs": 72460,
+"endTimeMs": 74900,
+"source": "In the waters they hunted whales and seals,",
+"target": "他们在水中捕猎鲸鱼和海豹，"
+"startTimeMs": 75180,
+"endTimeMs": 78500,
+"source": "and during the warmer months they pursued caribou on the land.",
+"target": "在温暖的月份则在陆地上追逐驯鹿。"
+"startTimeMs": 78960,
+"endTimeMs": 83960,
+"source": "The tough hide of the caribou was used to make clothing that would stand the harshness of winter.",
+"target": "驯鹿坚韧的皮被用来制作能够抵御严冬的衣物。"
+"startTimeMs": 84380,
+"endTimeMs": 93220,
+"source": "They survived those harsh winters by banding together in tight communities in igloos or semi-subterranean homes built over whalebone frames.",
+"target": "他们通过在冰屋或建在鲸鱼骨框架上的半地下房屋中紧密团结，共同度过严冬。"
+"startTimeMs": 93596,
+"endTimeMs": 96036,
+"source": "Even though the Arctic region was inhabited,",
+"target": "尽管北极地区一直有人居住，"
+"startTimeMs": 96316,
+"endTimeMs": 99200,
+"source": "it would be many years before it came to the attention of most European.",
+"target": "但很多年后才引起大多数欧洲人的注意。"
+"startTimeMs": 99360,
+"endTimeMs": 99880,
+"source": "Europeans.",
+"target": "欧洲人。"
+"startTimeMs": 100240,
+"endTimeMs": 104840,
+"source": "The area first caught the imagination of European explorers in the 15th century.",
+"target": "15世纪，这片地区首次激发了欧洲探险家的想象力，"
+"startTimeMs": 105040,
+"endTimeMs": 111240,
+"source": "as mariners like John Cabot and Sir Francis Drake tried in vain to find the Northwest Passage.",
+"target": "当时，像约翰·卡博特和弗朗西斯·德雷克爵士这样的航海家试图寻找西北航道，但均无功而返。"
+"startTimeMs": 111616,
+"endTimeMs": 115416,
+"source": "a route through the polar waters that would connect Europe to the wealth of the Orient.",
+"target": "西北航道是一条穿越极地水域、连接欧洲与东方财富的航线。"
+"startTimeMs": 115696,
+"endTimeMs": 118616,
+"source": "A journey through the polar waters can be perilous.",
+"target": "穿越极地水域的旅程可能充满危险。"
+"startTimeMs": 118760,
+"endTimeMs": 125840,
+"source": "Sheets of ice called flows are large enough to crush ships while cracks in the ice can swallow those traveling overland.",
+"target": "被称为冰流的冰层大到足以压碎船只，而冰上的裂缝则可能吞噬在陆地上行进的人。"
+"startTimeMs": 126160,
+"endTimeMs": 131960,
+"source": "Robert Perry is generally credited with being the first to have reached the North Pole in 1909.",
+"target": "人们普遍认为，罗伯特·佩里是1909年首个到达北极的人。"
+"startTimeMs": 132272,
+"endTimeMs": 138312,
+"source": "He traveled overland to the pole with African-American explorer Matthew Henson and four Inuit.",
+"target": "他与非洲裔美国探险家马修·亨森和四名因纽特人一起从陆路前往北极。"
+"startTimeMs": 138360,
+"endTimeMs": 142800,
+"source": "Another milestone came in May 1926 when Admiral Richard E.",
+"target": "另一个里程碑出现在1926年5月，当时理查德·E·伯德海军上将"
+"startTimeMs": 142840,
+"endTimeMs": 146800,
+"source": "Byrd flew from Spitsbergen Island to the North Pole and back.",
+"target": "从斯匹次卑尔根岛飞往北极并返回。"
+"startTimeMs": 147560,
+"endTimeMs": 149760,
+"source": "Three days after Admiral Byrd's flight,",
+"target": "伯德海军上将飞行三天后，"
+"startTimeMs": 150040,
+"endTimeMs": 152880,
+"source": "the first verified team to reach the North Pole",
+"target": "首个被证实的到达北极的团队"
+"startTimeMs": 153288,
+"endTimeMs": 154848,
+"source": "traversed it in a dirigible.",
+"target": "乘坐飞艇穿越了该地区。"
+"startTimeMs": 155224,
+"endTimeMs": 157584,
+"source": "Among the group was Roald Amundsen,",
+"target": "探险队中包括罗阿尔德·阿蒙森，"
+"startTimeMs": 157624,
+"endTimeMs": 161104,
+"source": "an explorer credited with being the first to reach the South Pole.",
+"target": "这位探险家被公认为第一个到达南极点的人。"
+"startTimeMs": 161288,
+"endTimeMs": 164288,
+"source": "Nonetheless, Byrd and Perry were recognized by the U.",
+"target": "尽管如此，伯德和佩里仍因其成就获得了美国的认可。"
+"startTimeMs": 164328,
+"endTimeMs": 164558,
+"source": "S.",
+"target": "S"
+"startTimeMs": 164568,
+"endTimeMs": 165088,
+"source": "government",
+"target": "政府"
+"startTimeMs": 165464,
+"endTimeMs": 166624,
+"source": "for their achievements.",
+"target": "（此处U.根据上下文推测可能指美国United States，因原文未完整写出，译文按推测处理）。"
