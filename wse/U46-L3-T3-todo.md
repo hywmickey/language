@@ -1,4 +1,4 @@
-### T3-U46-L3[todo]
+### T3-U46-L3
 
 ```
 # test
@@ -128,4 +128,90 @@ The northern ice field has lost 6.5 feet of ice from the surface, the Furtwangle
 Thompson said that the loss of more than 10 feet from the surface of the Furtwangler is serious since that entire glacier was only 30 feet thick in 2000. To make matters worse, there has been no new ice on any of those ice fields since 2000, which makes the amount of lost ice enormous.
 
 Environmentalists are trying their best to slow down the effects of glooal warming, but most of the world is not listening. The question which remains is what will the people do when the water disappears, as it most likely will.
+
+```
+# test
+Why is it strange that there is snow in this country? - because the temperature usually doesn't get below 50 degrees.
+What is the tallest point in Africa? - Mount Kilimanjaro.
+What is true of tourism in Tanzania? - It is helping the economy.
+What is in danger of becoming extinct? - the ice.
+What is causing the problem? - the rising temperatures on earth.
+What will happen by 2020? - There will be no more snow on the mountain.
+Who will be hurt the most? - the poor people who need the water from the mountain.
+How much of the mountain's snow and ice is disappearing? - about half a meter each year.
+What do researchers think will happen to the northern ice field? - It will sparete into two pieces because the ice is becoming thinner and __
+What is making the problem worse? - There is no new ice replacing the melting ice.
+Other than thinking about global warming, what solution needs to be found? - We have to think of a solution for the people who will not have water.
+```
+
+```
+# test
+If someone is vulnerable, they are often very sensitive and can cry easily.
+If you want to thank someone, you can show your gratitude by buying them a present.
+If you want to avoid someone, don't go to the place where you know that person will be.
+In order to recover from your sickness, you will need to eat well, sleep a lot, and take your medicine.
+This show is so entertaining that I can't stop watching it.
+This is a very contemporary city with a lot of modern architecture and entertainment.
+He has been in a state of deep sorrow since his mother died.
+If something is correct, it is accurate.
+We don't want a long story. We just want a brief one.
+I just adore my mother. She is a wonderful person, and I would do anything for her.
+He is quite skillfull and talented at playing the piano. He has a lot of practice doing this, so he can do it well.
+```
+
+```
+# test
+There's nothing like the experience of seeing fresh, pure white snow covering the peaks of a mountain range.
+However, all over the world, this vision of beauty is in danger of disappearing.
+Thanks to global warming, snow-capped mountains may become a thing of the past.
+Global warming is causing snow, ice, and glaciers everywhere to melt.
+This source of the problem is in the inhabitans of the Earth.
+Pollution and man-made waste are sending toxing into the air, raising the temperature around the globe.
+And it is not just the glaciers and ice that are suffering.
+Another result is that sea levels are rising, and fresh water sources are disappearing with the disappearing ice.
+The global climate is changing, causing more storms, and more violent weather.
+It may be too late to stop the damage that we humans have caused.
+And in the end, we may all pay for our mistakes.
+```
+
+```
+# test
+My brother and I have totally different ideas about most things. However, one thing that we agree on is that it is important to get a good education.
+It was on his personal recommendation that I went to eat there.
+I wish to express my condolences.
+That's my brother, whom you met last week.
+I can't believe she went out with Caleb instead of me! He may be ricer, but I am smarter.
+He was walking very strangely. He looked as though he were drunk.
+I'm so angry with you, I could well hit you right now, but I won't.
+我简直被你气炸了，这会儿真想揍你一顿，但我不会这么做的。
+- 句子结构分析: 并列转折句
+- 核心词汇精细化辨析
+could well /kʊd wel/ 
+	情态动词短语，强调 “极有可能；简直可以”，比单纯的 could 语气更强，突出愤怒情绪下的冲动感。
+	例句：He could well win the competition if he practices harder.（如果他再加把劲练习，极有可能赢得这场比赛。）
+- 同义改写
+    正式版	
+    	I am extremely furious with you and feel the urge to strike you at this very moment, yet I will refrain from doing so.	
+    	替换口语化词汇（angry→furious；hit→strike），用 at this very moment 替代 right now，refrain from doing so 替代 won't，增强正式感	
+    	译文: 我对你极为恼火，此刻甚至产生了揍你的冲动，但我会克制住自己不这么做。
+    口语版	
+    	I’m so mad at you— I kinda wanna punch you right now, but I won’t.	
+    	用 mad 替代 angry，kinda wanna 替代 could well，punch 替代 hit，加破折号强化情绪，更贴近日常对话	
+    	译文: 我真是气死你了，真想一拳揍过去，但我不会的。
+    书面简洁版	
+    	Furious with you, I could strike you now, but I won’t.	
+    	用形容词短语 Furious with you 作状语简化主句，省略冗余词汇，保持书面简洁	
+    	译文: 我对你怒火中烧，此刻虽能揍你，但我不会这么做。
+- 拓展例句（基于核心结构）
+    I'm so disappointed with the team, I could well quit the project right now, but I won't.（我对这个团队太失望了，这会儿真想退出项目，但我不会这么做。）
+    She’s so upset about the result, she could well tear up the paper right now, but she won’t.（她对这个结果懊恼至极，此刻真想把试卷撕碎，但她不会这么做。）
+
+Whatever is bothering him, I hope it goes away soon.
+There are many examples of his arrogance; another example was when he refused to sit in my car because it wasn't good enough for him.
+他的傲慢有很多例子；另一个例子是，他拒绝坐在我的车里，因为这对他来说不够好。
+There are many theories as to why this happens.
+His hair losing is not because of his age, it's because of his diet.
+I went shopping yesterday, but it wasn't any fun. There wasn't anything worth buying.
+Even though he missed several weeks of class, he really does deserve graduating because he did all the work and passed all his exams.
+```
 
