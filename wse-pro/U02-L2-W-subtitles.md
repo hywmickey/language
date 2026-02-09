@@ -3,23 +3,23 @@
 | Steve          | 00:02 | June, can you bring them in now, please?                     |
 | June           | 00:04 | Right away.                                                  |
 | June           | 00:09 | Will you come this way, please?                              |
-| June           | 00:13 | Marcia Bowman and Alex Garowski from California Market Intelligence. |
-| Alex Garowski  | 00:21 | It's Grotowski, actually.                                    |
+| June           | 00:13 | Marcia Bowman and Alex Grotowski from California Market Intelligence. |
+| Alex Grotowski | 00:21 | It's Grotowski, actually.                                    |
 | Steve          | 00:24 | Thanks, June.                                                |
 | Steve          | 00:25 | Well, come on in, guys.                                      |
 | Steve          | 00:27 | Take a seat.                                                 |
 | Steve          | 00:29 | Hey, you know what?                                          |
 | Steve          | 00:30 | Why doesn't everyone introduce themselves and say what it is they do? |
 | Steve          | 00:34 | So, I'm Steve Lee, CEO of BarryCo.                           |
-| Marsha Bowman  | 00:38 | Great to meet you.                                           |
-| Alex Garowski  | 00:38 | Nice to meet you, Steve.                                     |
+| Marcia Bowman  | 00:38 | Great to meet you.                                           |
+| Alex Grotowski | 00:38 | Nice to meet you, Steve.                                     |
 | Cameron        | 00:40 | Hi.Marcia.                                                   |
 | Cameron        | 00:41 | We've already spoken on the phone.                           |
 | Cameron        | 00:43 | Cameron Diallo, Chief Marketing Officer.                     |
 | Marcia Bowma   | 00:46 | It's great to actually meet you, Cameron.                    |
-| Alex Garowski  | 00:47 | Right!                                                       |
+| Alex Grotowski | 00:47 | Right!                                                       |
 | Dominic        | 00:49 | I'm Dominic Payne, Head of Market Research.                  |
-| Alex Garowski  | 00:52 | Great.                                                       |
+| Alex Grotowski | 00:52 | Great.                                                       |
 | Marcia Bowma   | 00:54 | Good to meet you, Dominic.                                   |
 | Steve          | 00:55 | So, the rest of our team.                                    |
 | Max            | 00:57 | Max Danos, Chief Operating Officer.                          |
@@ -30,26 +30,26 @@
 | Alice          | 01:11 | Oh, right.                                                   |
 | Alice          | 01:12 | Alice Pettit.                                                |
 | Alice          | 01:13 | I'm Cameron's assistant.                                     |
-| Marsha Bowman  | 01:15 | Marsha Bowman, Sales Director of CMI,  California Market Intelligence. |
-| Marsha Bowman  | 01:20 | Let me give you my card.                                     |
+| Marcia Bowman  | 01:15 | Marcia Bowman, Sales Director at CMI - California Market Intelligence. |
+| Marcia Bowman  | 01:20 | Let me give you my card.                                     |
 | Alex Kratowski | 01:21 | Alex Kratowski, Research Analyst.                            |
 | Alex Kratowski | 01:25 | And here's mine                                              |
 | Cameron        | 01:26 | On the phone, I think I also spoke to Mike Bulatts.          |
-| Marsha Bowman  | 01:29 | Oh, yes.                                                     |
-| Marsha Bowman  | 01:30 | He's our Director of Operations.                             |
-| Marsha Bowman  | 01:32 | I'm afraid he couldn't make it today.                        |
-| Marsha Bowman  | 01:34 | He had another appointment.                                  |
+| Marcia Bowman  | 01:29 | Oh, yes.                                                     |
+| Marcia Bowman  | 01:30 | He's our Director of Operations.                             |
+| Marcia Bowman  | 01:32 | I'm afraid he couldn't make it today.                        |
+| Marcia Bowman  | 01:34 | He had another appointment.                                  |
 | Cameron        | 01:37 | No problem.                                                  |
 | Cameron        | 01:38 | Well, why don't you tell us what you think you can do for us? |
-| Marsha Bowman  | 01:45 | Well, that's just about it from us if no one has any more questions. |
-| Marsha Bowman  | 01:50 | So thank you very much for your time.                        |
+| Marcia Bowman  | 01:45 | Well, that's just about it from us if no one has any more questions. |
+| Marcia Bowman  | 01:50 | So thank you very much for your time.                        |
 | Steve          | 01:53 | Well, thank you for coming in.                               |
 | Cameron        | 01:55 | Yeah, thanks a lot.                                          |
 | Steve          | 01:56 | I'll call June to show you out.                              |
-| Marsha Bowman  | 01:57 | No need.                                                     |
-| Marsha Bowman  | 01:58 | We can find our own way.                                     |
+| Marcia Bowman  | 01:57 | No need.                                                     |
+| Marcia Bowman  | 01:58 | We can find our own way.                                     |
 | Steve          | 01:59 | So long, everybody.                                          |
-| Marsha Bowman  | 02:01 | Bye for now.                                                 |
+| Marcia Bowman  | 02:01 | Bye for now.                                                 |
 | Cameron        | 02:02 | I'll get back to you very soon.                              |
 | Dominic        | 02:05 | Well, that was a complete waste of time.                     |
 | Cameron        | 02:08 | Later, Dominic.                                              |
