@@ -82,16 +82,16 @@
 | Alice   | 03:38 | Thanks a lot.                                                |
 | Dominic | 03:39 | If you use any of that, remember to say where it came from.  |
 | Alice   | 03:42 | Definitely.                                                  |
-| SPK_6   | 03:45 | Reward for excellence.                                       |
-| SPK_6   | 03:47 | I like that, Alice.                                          |
+| Devin   | 03:45 | Reward for excellence.                                       |
+| Devin   | 03:47 | I like that, Alice.                                          |
 | Alice   | 03:49 | Thanks.                                                      |
-| SPK_6   | 03:50 | So how many people do you want me to pick out?               |
+| Devin   | 03:50 | So how many people do you want me to pick out?               |
 | Alice   | 03:52 | Well, obviously we'll invite all the regional sales managers. |
 | Alice   | 03:56 | Then I was thinking why not ask each of them to pick out their top salespeople? |
-| SPK_6   | 04:01 | What, one per region?                                        |
+| Devin   | 04:01 | What, one per region?                                        |
 | Alice   | 04:03 | Is that enough of an incentive?                              |
-| SPK_6   | 04:05 | I think so.                                                  |
-| SPK_6   | 04:06 | If we invite too many of them, it doesn't mean so much.      |
+| Devin   | 04:05 | I think so.                                                  |
+| Devin   | 04:06 | If we invite too many of them, it doesn't mean so much.      |
 | Cheryl  | 04:11 | Yes, I told Ken, of course.                                  |
 | Cheryl  | 04:14 | He just isn't very excited by the idea, let's say.           |
 | Alice   | 04:18 | Well, why not?                                               |

@@ -82,16 +82,16 @@
 | Alice   | 03:38 | Thanks a lot.                                                | 非常感谢。                                                   |
 | Dominic | 03:39 | If you use any of that, remember to say where it came from.  | 如果你采用了这个想法，记得说是我提的。                       |
 | Alice   | 03:42 | Definitely.                                                  | 一定。                                                       |
-| SPK_6   | 03:45 | Reward for excellence.                                       | 卓越成就奖。                                                 |
-| SPK_6   | 03:47 | I like that, Alice.                                          | 爱丽丝，我喜欢这个主题。                                     |
+| Devin   | 03:45 | Reward for excellence.                                       | 卓越成就奖。                                                 |
+| Devin   | 03:47 | I like that, Alice.                                          | 爱丽丝，我喜欢这个主题。                                     |
 | Alice   | 03:49 | Thanks.                                                      | 谢谢。                                                       |
-| SPK_6   | 03:50 | So how many people do you want me to pick out?               | 那你想让我挑选多少人？                                       |
+| Devin   | 03:50 | So how many people do you want me to pick out?               | 那你想让我挑选多少人？                                       |
 | Alice   | 03:52 | Well, obviously we'll invite all the regional sales managers. | 嗯，显然我们要邀请所有的区域销售经理。                       |
 | Alice   | 03:56 | Then I was thinking why not ask each of them to pick out their top salespeople? | 然后我在想，何不让他们每个人都选出自己区域的顶尖销售人员？   |
-| SPK_6   | 04:01 | What, one per region?                                        | 什么，每个区域选一个？                                       |
+| Devin   | 04:01 | What, one per region?                                        | 什么，每个区域选一个？                                       |
 | Alice   | 04:03 | Is that enough of an incentive?                              | 这样的激励力度够吗？                                         |
-| SPK_6   | 04:05 | I think so.                                                  | 我觉得够了。                                                 |
-| SPK_6   | 04:06 | If we invite too many of them, it doesn't mean so much.      | 如果我们邀请太多人，这就没那么有分量了。                     |
+| Devin   | 04:05 | I think so.                                                  | 我觉得够了。                                                 |
+| Devin   | 04:06 | If we invite too many of them, it doesn't mean so much.      | 如果我们邀请太多人，这就没那么有分量了。                     |
 | Cheryl  | 04:11 | Yes, I told Ken, of course.                                  | 当然了，我已经告诉肯了。                                     |
 | Cheryl  | 04:14 | He just isn't very excited by the idea, let's say.           | 这么说吧，他对这个主意一点都不感兴趣。                       |
 | Alice   | 04:18 | Well, why not?                                               | 啊，为什么不感兴趣？                                         |
@@ -120,7 +120,7 @@
 | Alice   | 05:16 | Our people would be so excited to meet a famous TV boss.     | 我们公司的员工见到您这位知名的电视行业大佬一定会非常激动。   |
 | Marina  | 05:20 | You flatter me, Alice.                                       | 你太抬举我了，爱丽丝。                                       |
 | Marina  | 05:23 | I'm not that famous.                                         | 我没那么有名啦。                                             |
-| Alice   | 05:24 | And do you think you maybe could bring Dave Burrows with you? | 那您能不能把戴夫·伯罗斯也一起带来呢？                       |
+| Alice   | 05:24 | And do you think you maybe could bring Dave Burrows with you? | 那您能不能把戴夫·伯罗斯也一起带来呢？                        |
 | Alice   | 05:28 | People would be so excited.                                  | 大家一定会特别激动的。                                       |
 | Marina  | 05:31 | Now I see what this is really all about.                     | 现在我明白这事儿的真正目的了。                               |
 | Marina  | 05:33 | Dave's a huge star these days.                               | 戴夫现在可是个大红人。                                       |
@@ -130,7 +130,7 @@
 | Ken     | 05:44 | How much time have you got?                                  | 你有多少时间听？                                             |
 | Alice   | 05:45 | Not the whole story, just Ken Johnson's Secrets for Success, that sort of thing. | 不是讲完整的人生故事啦，就讲讲“肯·约翰逊的成功秘诀”这类的内容就行。 |
 | Ken     | 05:51 | Well, I guess I have one or two things to say.               | 嗯，我想我确实有一些话可以说。                               |
-| Alice   | 05:55 | And also, did I mention that Dave Burrows is going to be there? | 对了，我跟您提过戴夫·伯罗斯也会来吗？                       |
+| Alice   | 05:55 | And also, did I mention that Dave Burrows is going to be there? | 对了，我跟您提过戴夫·伯罗斯也会来吗？                        |
 | Alice   | 05:59 | I remember you said you loved his show.                      | 我记得您说过您喜欢他的节目。                                 |
 | Cameron | 06:01 | So Alice is going to present her plan.                       | 接下来爱丽丝要介绍她的方案了。                               |
 | Steve   | 06:05 | Sounds good to me.                                           | 我觉得没问题。                                               |
@@ -138,13 +138,13 @@
 | Alice   | 06:07 | Okay, well, I thought the theme of the conference could be Reward for Excellence. | 好的，我认为这次会议的主题可以定为“卓越成就奖”。             |
 | Steve   | 06:13 | I like it.                                                   | 我喜欢这个主题。                                             |
 | Alice   | 06:14 | The idea is that we invite the top salespeople from each region to the conference and we give them a prize for their achievements. | 我的想法是，邀请每个区域的顶尖销售人员来参加会议，并为他们的成就颁发奖品。 |
-| Alice   | 06:21 | I've invited Ken Johnson.                                    | 我已经邀请了肯·约翰逊。                                     |
+| Alice   | 06:21 | I've invited Ken Johnson.                                    | 我已经邀请了肯·约翰逊。                                      |
 | Alice   | 06:23 | He's going to give a talk on my Secrets for Success and he's also going to hand out the prizes. | 他会做一场题为《我的成功秘诀》的演讲，还会为获奖者颁奖。     |
 | Cameron | 06:28 | I thought you said he was unwilling to come.                 | 我记得你说过他不愿意来的。                                   |
 | Alice   | 06:30 | Ah, yes.                                                     | 啊，没错。                                                   |
-| Alice   | 06:32 | I also invited Marina and she's going to bring Dave Burrows. | 我还邀请了玛丽娜，而且她会带戴夫·伯罗斯一起来。             |
+| Alice   | 06:32 | I also invited Marina and she's going to bring Dave Burrows. | 我还邀请了玛丽娜，而且她会带戴夫·伯罗斯一起来。              |
 | Steve   | 06:37 | What?                                                        | 什么？                                                       |
-| Steve   | 06:37 | The Dave Burrows?                                            | 是那个戴夫·伯罗斯吗？                                       |
+| Steve   | 06:37 | The Dave Burrows?                                            | 是那个戴夫·伯罗斯吗？                                        |
 | Alice   | 06:39 | That's right.                                                | 没错。                                                       |
 | Alice   | 06:40 | Ken just happens to be a huge fan of his.                    | 肯恰好是他的超级粉丝。                                       |
 | Alice   | 06:43 | And also, of course, all our people will get to meet Dave at the opening reception. | 而且，当然，我们所有员工都能在开幕酒会上见到戴夫。           |
