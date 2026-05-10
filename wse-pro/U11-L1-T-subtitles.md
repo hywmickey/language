@@ -29,7 +29,7 @@
 | Steve        | 01:11 | Right.                                                       |
 | Cameron      | 01:11 | You knew about it?                                           |
 | Steve        | 01:13 | Yeah, the story was in the International Times Tribune too.  |
-| Cameron      | 01:16 | It's great timing just when we're about to launch a new health trick. |
+| Cameron      | 01:16 | It's great timing just when we're about to launch a new health drink. |
 | Steve        | 01:20 | I know.                                                      |
 | Steve        | 01:20 | I've sent Max out there to clear things up asap.             |
 | Cameron      | 01:23 | I don't think Max is the best person to handle something like this. |
