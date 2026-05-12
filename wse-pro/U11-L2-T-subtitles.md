@@ -17,7 +17,7 @@
 | Alice   | 00:45 | One, Executive summary.                                      |
 | Alice   | 00:47 | This section summarizes the success of the BerryAde brand in the past and the challenges which it faces at present. |
 | Alice   | 00:55 | Hmm, pretty neat.                                            |
-| Alice   | 00:57 | Tow. Market performance and market share.                    |
+| Alice   | 00:57 | Two. Market performance and market share.                    |
 | Alice   | 01:01 | This section shows the changes in the market share over the past 15 years. |
 | Alice   | 01:07 | Better add something to that.                                |
 | Alice   | 01:09 | Changes in the company's market share.                       |
@@ -32,7 +32,7 @@
 | Alice   | 01:49 | I could just say has developed recently.                     |
 | Alice   | 01:53 | Or has developed in recent years, whatever.                  |
 | Alice   | 01:59 | Five. The new product and the new strategy.                  |
-| Alice   | 02:02 | This section describes Barico's new organic health drink and our marketing and sales plans for it. |
+| Alice   | 02:02 | This section describes BerryCo's new organic health drink and our marketing and sales plans for it. |
 | Alice   | 02:09 | That sounds weak.                                            |
 | Alice   | 02:11 | How about our plans to dominate the organic health drink market? |
 | Alice   | 02:17 | But what if we don't dominate it?                            |
@@ -130,7 +130,7 @@
 | Steve   | 07:05 | In fact, you can kiss your job goodbye while you're at it.   |
 | Cameron | 07:08 | So what do you suggest?                                      |
 | Steve   | 07:09 | How many times do I have to say this, Cameron?               |
-| Steve   | 07:11 | Barrier is what we all live off in this company.             |
+| Steve   | 07:11 | BerryAde is what we all live off in this company.            |
 | Steve   | 07:15 | New products have their place, but we'll still be selling BerryAde in 10 years time. |
 | Steve   | 07:20 | And it'll still be our main product.                         |
 | Cameron | 07:22 | Who knows?                                                   |
